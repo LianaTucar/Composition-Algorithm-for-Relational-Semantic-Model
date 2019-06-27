@@ -1,0 +1,7 @@
+nume_rand
+B b C c 
+A a E e 
+Rel_3 a c Rel_1 a d Rel_1 d e
+
+
+

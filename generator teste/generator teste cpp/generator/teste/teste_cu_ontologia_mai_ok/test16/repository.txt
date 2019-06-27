@@ -1,0 +1,11 @@
+2
+Serv_82
+Concept_48 Nume_57 Concept_71 Nume_23 Concept_48 Nume_90 
+Concept_28 Nume_27 Concept_73 Nume_36 Concept_48 Nume_02 Concept_48 Nume_15 Concept_71 Nume_60 Concept_48 Nume_92 Concept_16 Nume_25 Concept_28 Nume_01 Concept_28 Nume_09 Concept_71 Nume_84 
+Rel_59 Nume_57 Nume_23 
+
+Serv_44
+Concept_48 Nume_47 Concept_71 Nume_15 Concept_71 Nume_86 
+Concept_73 Nume_68 Concept_71 Nume_29 Concept_73 Nume_38 Concept_73 Nume_07 Concept_71 Nume_94 Concept_48 Nume_36 Concept_16 Nume_26 Concept_28 Nume_09 Concept_71 Nume_31 Concept_48 Nume_34 
+Rel_59 Nume_47 Nume_15 
+

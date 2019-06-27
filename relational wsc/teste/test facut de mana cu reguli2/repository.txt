@@ -1,0 +1,12 @@
+2
+Serv_1
+A a
+B b
+Rel_1 a b
+
+Serv_2
+B b
+C c
+Rel_2 b c
+
+

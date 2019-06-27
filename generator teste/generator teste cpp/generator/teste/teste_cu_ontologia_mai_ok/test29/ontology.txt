@@ -1,0 +1,93 @@
+17 40 8
+
+Concept_005 Concept_005
+Concept_021 Concept_005
+Concept_150 Concept_021
+Concept_247 Concept_150
+Concept_306 Concept_150
+Concept_399 Concept_150
+Concept_435 Concept_150
+Concept_454 Concept_150
+Concept_462 Concept_021
+Concept_485 Concept_150
+Concept_637 Concept_485
+Concept_638 Concept_399
+Concept_649 Concept_485
+Concept_692 Concept_485
+Concept_769 Concept_454
+Concept_802 Concept_769
+Concept_945 Concept_637
+
+Rel_478
+Rel_950
+Rel_265
+Rel_556
+Rel_049
+Rel_708
+Rel_458
+Rel_508
+Rel_576
+Rel_165
+Rel_975
+Rel_460
+Rel_873
+Rel_355
+Rel_610
+Rel_579
+Rel_005
+Rel_498
+Rel_062
+Rel_866
+Rel_510
+Rel_033
+Rel_250
+Rel_273
+Rel_826
+Rel_106
+Rel_175
+Rel_338
+Rel_297
+Rel_121
+Rel_895
+Rel_117
+Rel_333
+Rel_879
+Rel_015
+Rel_210
+Rel_399
+Rel_744
+Rel_094
+Rel_125
+
+Reg_396 X Y Z
+Rel_826 X Y Rel_826 Y Z
+Rel_826 X Z
+
+Reg_814 X Y Z
+Rel_826 X Y Rel_826 Y Z
+Rel_826 X Z
+
+Reg_489 X Y Z
+Rel_576 X Y Rel_165 Y Z
+Rel_355 X Z
+
+Reg_185 X Y Z
+Rel_826 X Y Rel_826 Y Z
+Rel_826 X Z
+
+Reg_884 X Y Z
+Rel_895 X Y Rel_826 Y Z
+Rel_826 X Z
+
+Reg_528 X Y Z
+Rel_826 X Y Rel_826 Y Z
+Rel_826 X Z
+
+Reg_318 X Y Z
+Rel_576 X Y Rel_165 Y Z
+Rel_355 X Z
+
+Reg_707 X Y Z
+Rel_895 X Y Rel_826 Y Z
+Rel_826 X Z
+

@@ -1,0 +1,5 @@
+nume_rand
+Concept_049 Param_443 Concept_117 Param_733 Concept_277 Param_209 Concept_535 Param_973 Concept_736 Param_718 
+Concept_724 Param_718 
+Rel_522 Param_733 Param_209 Rel_515 Param_718 Param_718 Rel_628 Param_733 Param_973 Rel_524 Param_973 Param_443 Rel_709 Param_443 Param_443 Rel_473 Param_209 Param_718 Rel_217 Param_209 Param_718 Rel_285 Param_973 Param_718 Rel_613 Param_443 Param_973 Rel_024 Param_443 Param_973 
+

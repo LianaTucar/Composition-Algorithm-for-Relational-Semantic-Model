@@ -1,0 +1,15 @@
+4 3 1
+
+R R
+A R
+B R
+C R
+
+Rel_1
+Rel_2
+Rel_3
+
+Regula X Y
+Rel_2 X Y
+Rel_3 X Y
+

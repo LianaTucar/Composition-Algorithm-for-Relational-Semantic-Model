@@ -1,0 +1,35 @@
+#concepts 5, #relations 14, #rules 0.
+
+Concept_79 -> Concept_11
+Concept_07 (root)
+Concept_65 -> Concept_11
+Concept_11 -> Concept_07
+Concept_99 -> Concept_65
+
+Rel_09: 
+Rel_07: 
+Rel_27: 
+Rel_38: 
+Rel_37: 
+Rel_58: 
+Rel_36: 
+Rel_79: 
+Rel_12: 
+Rel_87: 
+Rel_62: 
+Rel_72: 
+Rel_92: 
+Rel_90: 
+
+#services (2) are :
+
+Serv_17
+input = Nume_22 : Concept_65 , Nume_07 : Concept_65 , Nume_69 : Concept_65 , 
+output = Nume_56 : Concept_11, Nume_49 : Concept_99, Nume_36 : Concept_11, Nume_53 : Concept_99, Nume_75 : Concept_65, Nume_24 : Concept_11, Nume_80 : Concept_11, Nume_37 : Concept_65, Nume_89 : Concept_65, Nume_84 : Concept_07, 
+relations = 
+
+Serv_64
+input = Nume_46 : Concept_65 , Nume_80 : Concept_65 , Nume_57 : Concept_99 , 
+output = Nume_49 : Concept_99, Nume_08 : Concept_99, Nume_47 : Concept_65, Nume_14 : Concept_65, Nume_85 : Concept_99, Nume_54 : Concept_79, Nume_25 : Concept_11, Nume_84 : Concept_11, Nume_02 : Concept_79, Nume_50 : Concept_79, 
+relations = 
+

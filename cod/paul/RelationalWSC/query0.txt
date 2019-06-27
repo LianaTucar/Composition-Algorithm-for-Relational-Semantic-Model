@@ -1,0 +1,5 @@
+wiredUserQuery
+student Paul employee Andrei student Liana
+person smallPerson person bigPerson
+greater Paul Andrei smaller smallPerson bigPerson greater Andrei Liana
+

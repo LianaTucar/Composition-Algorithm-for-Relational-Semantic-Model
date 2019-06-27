@@ -1,0 +1,32 @@
+7 16 1
+
+Concept_0884217 Concept_0884217
+Concept_5671831 Concept_0884217
+Concept_6941282 Concept_0884217
+Concept_7778247 Concept_6941282
+Concept_9188832 Concept_6941282
+Concept_9734984 Concept_7778247
+Concept_0438796 Concept_6941282
+
+Rel_4727038
+Rel_3066783
+Rel_7808719
+Rel_8000216
+Rel_8477556
+Rel_speciala
+Rel_3528553
+Rel_1212215
+Rel_8758051
+Rel_6674487
+Rel_1898635
+Rel_2322553
+Rel_8963346
+Rel_5870029
+Rel_1708708
+Rel_1947155
+
+Reg1 X Y
+Rel_1898635 X Y
+Rel_speciala X Y
+
+

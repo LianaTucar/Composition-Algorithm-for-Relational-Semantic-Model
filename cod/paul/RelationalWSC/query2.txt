@@ -1,0 +1,5 @@
+academicTravelQuery
+Person person University homeUniv University foreignUniv
+Ticket someTicket
+isEmployeeOf person homeUniv hasDestination person foreignUniv
+

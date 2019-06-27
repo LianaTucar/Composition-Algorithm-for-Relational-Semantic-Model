@@ -1,0 +1,27 @@
+5 14 1
+
+Concept_33 Concept_33
+Concept_59 Concept_33
+Concept_70 Concept_33
+Concept_79 Concept_33
+Concept_88 Concept_59
+
+Rel_40
+Rel_27
+Rel_91
+Rel_25
+Rel_89
+Rel_83
+Rel_07
+Rel_10
+Rel_50
+Rel_47
+Rel_33
+Rel_97
+Rel_29
+Rel_19
+
+Reg_77 X Y Z
+Rel_50 X Y Rel_33 Y Z
+Rel_50 X Z
+

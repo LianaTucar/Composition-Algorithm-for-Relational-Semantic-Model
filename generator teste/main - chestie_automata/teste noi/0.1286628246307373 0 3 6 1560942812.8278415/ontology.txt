@@ -1,0 +1,21 @@
+11 5 0
+
+Concept_0182028 Concept_0182028
+Concept_1981093 Concept_0182028
+Concept_2262006 Concept_1981093
+Concept_3087334 Concept_0182028
+Concept_3410438 Concept_0182028
+Concept_3431574 Concept_1981093
+Concept_7121289 Concept_0182028
+Concept_8816481 Concept_1981093
+Concept_8917188 Concept_3410438
+Concept_9483323 Concept_3410438
+Concept_4279935 Concept_3431574
+
+Rel_5900735
+Rel_5787898
+Rel_speciala
+Rel_6743337
+Rel_5966445
+
+

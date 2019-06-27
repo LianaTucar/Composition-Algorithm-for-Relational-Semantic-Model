@@ -1,0 +1,15 @@
+5 6 0
+
+Concept_1206322 Concept_1206322
+Concept_1854874 Concept_1206322
+Concept_2138906 Concept_1854874
+Concept_3098521 Concept_1854874
+Concept_4074124 Concept_3098521
+
+Rel_7634450
+Rel_7843962
+Rel_7400255
+Rel_5064934
+Rel_8653067
+Rel_7864372
+

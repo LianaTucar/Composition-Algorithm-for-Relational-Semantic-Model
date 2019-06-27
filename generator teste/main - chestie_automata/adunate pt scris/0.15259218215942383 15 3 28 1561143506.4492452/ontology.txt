@@ -1,0 +1,36 @@
+19 8 1
+
+Concept_0044505 Concept_0044505
+Concept_0664684 Concept_0044505
+Concept_1266593 Concept_0664684
+Concept_2106244 Concept_0044505
+Concept_2223644 Concept_1266593
+Concept_2734764 Concept_1266593
+Concept_2805569 Concept_0044505
+Concept_2981882 Concept_2805569
+Concept_3592854 Concept_2734764
+Concept_4336993 Concept_1266593
+Concept_5209280 Concept_3592854
+Concept_5860971 Concept_2106244
+Concept_6145222 Concept_2223644
+Concept_6501673 Concept_0044505
+Concept_7499196 Concept_5860971
+Concept_8406514 Concept_7499196
+Concept_8693706 Concept_2805569
+Concept_9428841 Concept_2805569
+Concept_3561699 Concept_4336993
+
+Rel_7667855
+Rel_speciala
+Rel_8094839
+Rel_3307618
+Rel_3517266
+Rel_4669091
+Rel_5176528
+Rel_8184332
+
+Reg1 X Y
+Rel_3307618 X Y
+Rel_speciala X Y
+
+

@@ -1,0 +1,17 @@
+8 4 0
+
+Concept_0265275 Concept_0265275
+Concept_1911743 Concept_0265275
+Concept_2011831 Concept_1911743
+Concept_3941284 Concept_2011831
+Concept_4342382 Concept_1911743
+Concept_5606566 Concept_0265275
+Concept_6990861 Concept_4342382
+Concept_9460200 Concept_0265275
+
+Rel_9714003
+Rel_7876580
+Rel_speciala
+Rel_5224092
+
+

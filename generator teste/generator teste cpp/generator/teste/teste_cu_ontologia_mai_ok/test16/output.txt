@@ -1,0 +1,52 @@
+#concepts 5, #relations 14, #rules 1.
+
+Concept_48 -> Concept_16
+Concept_16 (root)
+Concept_28 -> Concept_16
+Concept_71 -> Concept_28
+Concept_73 -> Concept_16
+
+Rel_39: 
+Rel_05: 
+Rel_49: 
+Rel_59: 
+Rel_26: 
+Rel_03: 
+Rel_47: 
+Rel_68: 
+Rel_67: 
+Rel_23: 
+Rel_78: 
+Rel_00: 
+Rel_74: 
+Rel_51: 
+
+Reg_59 X  premises: ( Rel_00(X, Y)  )  conclusions: ( Rel_03(X, Z)  ) Y  premises: ( Rel_49(Y, Z)  ) Z 
+Rel_00(X, Y) Rel_49(Y, Z) 
+Rel_03(X, Z) 
+
+#services (2) are :
+
+Serv_44
+input = Nume_47 : Concept_48 ( Rel_59(Nume_47, Nume_15)  ) , Nume_15 : Concept_71 , Nume_86 : Concept_71 , 
+output = Nume_68 : Concept_73, Nume_29 : Concept_71, Nume_38 : Concept_73, Nume_07 : Concept_73, Nume_94 : Concept_71, Nume_36 : Concept_48, Nume_26 : Concept_16, Nume_09 : Concept_28, Nume_31 : Concept_71, Nume_34 : Concept_48, 
+relations = Rel_59(Nume_47, Nume_15), 
+
+Serv_82
+input = Nume_57 : Concept_48 ( Rel_59(Nume_57, Nume_23)  ) , Nume_23 : Concept_71 , Nume_90 : Concept_48 , 
+output = Nume_27 : Concept_28, Nume_36 : Concept_73, Nume_02 : Concept_48, Nume_15 : Concept_48, Nume_60 : Concept_71, Nume_92 : Concept_48, Nume_25 : Concept_16, Nume_01 : Concept_28, Nume_09 : Concept_28, Nume_84 : Concept_71, 
+relations = Rel_59(Nume_57, Nume_23), 
+
+nume_rand
+input = Param_55 : Concept_16 , 
+output = Param_96 : Concept_48, Param_48 : Concept_71, Param_14 : Concept_92, 
+relations = Rel_59(Param_96, Param_48), Rel_05(Param_48, Param_96), 
+
+-------------------------------------------------------------- Input parsing done.
+Knowledge after learning user input and running rules:
+Object by name:
+   nume_rand_0_Param_96 : Concept_48 with relations: Rel_59(nume_rand_0_Param_96, nume_rand_0_Param_48) 
+   nume_rand_0_Param_48 : Concept_71 with relations: Rel_05(nume_rand_0_Param_48, nume_rand_0_Param_96) 
+   nume_rand_0_Param_14 : Concept_92 with no relations.
+-------------------------------------------------------------- Start building composition.
+Solved user query with: Param_55(nume_rand_0_Param_96) 

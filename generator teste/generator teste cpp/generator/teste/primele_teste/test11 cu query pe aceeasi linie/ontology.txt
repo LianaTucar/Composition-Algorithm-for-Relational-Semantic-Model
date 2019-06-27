@@ -1,0 +1,34 @@
+5 7 4
+
+Concept_01 Concept_01
+Concept_01 Concept_02
+Concept_01 Concept_05
+Concept_05 Concept_23
+Concept_02 Concept_62
+
+Rel_12
+Rel_61
+Rel_02
+Rel_03
+Rel_14
+Rel_09
+Rel_40
+
+Reg_13 X Y Z
+Rel_09 X Y Rel_03 Y Z
+Rel_03 X Z
+
+Reg_98 X Y Z
+Rel_09 X Y Rel_03 Y Z
+Rel_03 X Z
+
+Reg_07 X Y Z
+Rel_03 X Y Rel_03 Y Z
+Rel_03 X Z
+
+Reg_87 X Y Z
+Rel_03 X Y Rel_03 Y Z
+Rel_03 X Z
+
+
+

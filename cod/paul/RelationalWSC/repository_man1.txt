@@ -1,0 +1,381 @@
+76
+Serv_6135435
+Concept_4121384 Nume_0936694 Concept_4121384 Nume_6475470 Concept_4121384 Nume_1927717 Concept_4121384 Nume_7977273 
+Concept_0603927 Nume_6829000 Concept_0603927 Nume_0912385 Concept_0603927 Nume_8698699 Concept_0603927 Nume_4077394 Concept_4121384 Nume_4500290 Concept_7215563 Nume_5204072 Concept_7215563 Nume_1016777 
+Rel_4270516 Nume_6475470 Nume_4077394 Rel_4270516 Nume_0936694 Nume_6829000 
+
+Serv_1504629
+Concept_4121384 Nume_3836916 Concept_4121384 Nume_4134340 Concept_4121384 Nume_3391019 Concept_4121384 Nume_3224337 
+Concept_4121384 Nume_9963583 Concept_4121384 Nume_9117342 Concept_7215563 Nume_5212804 Concept_4121384 Nume_2072046 Concept_4121384 Nume_4558162 Concept_0603927 Nume_0380476 Concept_7215563 Nume_9205713 
+
+
+Serv_6866684
+Concept_4121384 Nume_8472339 Concept_4121384 Nume_0519197 Concept_4121384 Nume_7251613 Concept_4121384 Nume_6352953 
+Concept_7215563 Nume_3384860 Concept_0603927 Nume_7562846 Concept_7215563 Nume_1933335 Concept_0603927 Nume_2577905 Concept_4121384 Nume_1001763 Concept_0603927 Nume_4536597 Concept_0603927 Nume_0119314 
+
+
+Serv_7985004
+Concept_4121384 Nume_8592678 Concept_4121384 Nume_1605306 Concept_4121384 Nume_5817978 Concept_4121384 Nume_6849557 
+Concept_4121384 Nume_5149449 Concept_4121384 Nume_4682974 Concept_0603927 Nume_4296241 Concept_7215563 Nume_8169934 Concept_4121384 Nume_5847024 Concept_0603927 Nume_6477962 Concept_0603927 Nume_3874973 
+Rel_4270516 Nume_1605306 Nume_4296241 Rel_4270516 Nume_8592678 Nume_6477962 
+
+Serv_7584498
+Concept_7215563 Nume_8536900 Concept_4121384 Nume_5145314 Concept_0603927 Nume_1377812 Concept_7215563 Nume_3879586 
+Concept_7215563 Nume_4729545 Concept_4121384 Nume_9190544 Concept_0603927 Nume_3175930 Concept_8362283 Nume_5762024 Concept_1330454 Nume_0752915 Concept_7215563 Nume_5417098 Concept_1330454 Nume_0876922 
+Rel_2083262 Nume_8536900 Nume_0752915 
+
+Serv_3557375
+Concept_0603927 Nume_1336987 Concept_7215563 Nume_1259095 Concept_7215563 Nume_6232160 Concept_0603927 Nume_2458488 
+Concept_8362283 Nume_4131669 Concept_7215563 Nume_2040650 Concept_4121384 Nume_3024826 Concept_4121384 Nume_2418963 Concept_1330454 Nume_9645284 Concept_0603927 Nume_3460738 Concept_8362283 Nume_6829575 
+
+
+Serv_9067374
+Concept_7215563 Nume_7340222 Concept_0603927 Nume_8719199 Concept_7215563 Nume_4914880 Concept_4121384 Nume_2466208 
+Concept_4121384 Nume_3737357 Concept_0603927 Nume_4382081 Concept_1330454 Nume_3252768 Concept_8362283 Nume_1811791 Concept_0603927 Nume_3941394 Concept_8362283 Nume_8818151 Concept_7215563 Nume_5870645 
+
+
+Serv_7178687
+Concept_7215563 Nume_1780800 Concept_7215563 Nume_2085610 Concept_4121384 Nume_1631732 Concept_7215563 Nume_8068357 
+Concept_4121384 Nume_9814006 Concept_4121384 Nume_1901730 Concept_8362283 Nume_6458893 Concept_0603927 Nume_7442849 Concept_0603927 Nume_6140033 Concept_1330454 Nume_3530541 Concept_7215563 Nume_8689075 
+
+
+Serv_1140051
+Concept_4121384 Nume_7094669 Concept_7215563 Nume_6449235 Concept_4121384 Nume_2717691 Concept_0603927 Nume_6104655 
+Concept_1330454 Nume_7322202 Concept_8362283 Nume_1375492 Concept_7215563 Nume_2155340 Concept_0603927 Nume_9013917 Concept_1330454 Nume_2971930 Concept_7215563 Nume_3044132 Concept_4121384 Nume_3561561 
+
+
+Serv_4651455
+Concept_8362283 Nume_9793901 Concept_8362283 Nume_0761602 Concept_8362283 Nume_7925472 Concept_7215563 Nume_6410953 
+Concept_7215563 Nume_9574998 Concept_7215563 Nume_7070859 Concept_8362283 Nume_3195790 Concept_3091899 Nume_6880910 Concept_3091899 Nume_7458964 Concept_3091899 Nume_2665599 Concept_1330454 Nume_5977471 
+
+
+Serv_9662591
+Concept_4121384 Nume_9615340 Concept_1330454 Nume_7560852 Concept_1330454 Nume_3738703 Concept_0603927 Nume_3353384 
+Concept_0603927 Nume_0659918 Concept_1330454 Nume_5390402 Concept_7215563 Nume_3043097 Concept_4314923 Nume_3676429 Concept_3091899 Nume_9144651 Concept_7215563 Nume_8211686 Concept_4314923 Nume_5887323 
+Rel_3718028 Nume_9615340 Nume_3676429 
+
+Serv_7092760
+Concept_1330454 Nume_6226966 Concept_4121384 Nume_6465590 Concept_1330454 Nume_5021974 Concept_8362283 Nume_7691048 
+Concept_8362283 Nume_9279222 Concept_8362283 Nume_0141275 Concept_4121384 Nume_1525114 Concept_4121384 Nume_2281199 Concept_4314923 Nume_4733366 Concept_1330454 Nume_7054887 Concept_0603927 Nume_8140437 
+Rel_3718028 Nume_6465590 Nume_4733366 
+
+Serv_5687009
+Concept_7215563 Nume_0910210 Concept_4121384 Nume_2190114 Concept_1330454 Nume_9424193 Concept_4121384 Nume_3139843 
+Concept_7215563 Nume_9551149 Concept_4314923 Nume_6864799 Concept_7215563 Nume_3088384 Concept_8362283 Nume_4862448 Concept_7215563 Nume_5669091 Concept_8362283 Nume_6981988 Concept_4314923 Nume_3966552 
+Rel_2083262 Nume_0910210 Nume_9424193 
+
+Serv_2162311
+Concept_7215563 Nume_8789278 Concept_4121384 Nume_7043277 Concept_3091899 Nume_7601340 Concept_7215563 Nume_6144009 
+Concept_1330454 Nume_9300187 Concept_3091899 Nume_0898034 Concept_8362283 Nume_0089957 Concept_1330454 Nume_7308859 Concept_1330454 Nume_8889677 Concept_7215563 Nume_4978110 Concept_4227319 Nume_3080446 
+Rel_2083262 Nume_8789278 Nume_8889677 
+
+Serv_2910669
+Concept_8362283 Nume_2794292 Concept_3091899 Nume_8458680 Concept_4314923 Nume_0454479 Concept_1330454 Nume_1480664 
+Concept_1330454 Nume_3548535 Concept_7215563 Nume_3245644 Concept_3091899 Nume_2425210 Concept_4121384 Nume_3474140 Concept_0603927 Nume_7219647 Concept_0603927 Nume_2565190 Concept_4227319 Nume_4403398 
+
+
+Serv_8227289
+Concept_4314923 Nume_9312371 Concept_7215563 Nume_3257634 Concept_0603927 Nume_4885031 Concept_8362283 Nume_0129740 
+Concept_8362283 Nume_0615258 Concept_0348042 Nume_2561916 Concept_4227319 Nume_2519851 Concept_8362283 Nume_3301591 Concept_1330454 Nume_9135453 Concept_1330454 Nume_4251831 Concept_4121384 Nume_1158694 
+
+
+Serv_0943714
+Concept_4314923 Nume_8151568 Concept_7215563 Nume_8790228 Concept_3091899 Nume_1099290 Concept_8362283 Nume_3181543 
+Concept_4314923 Nume_0083514 Concept_7215563 Nume_7027495 Concept_4314923 Nume_9234090 Concept_4314923 Nume_5521259 Concept_4121384 Nume_1325313 Concept_4121384 Nume_6599500 Concept_1330454 Nume_6680700 
+
+
+Serv_0763682
+Concept_7215563 Nume_8816862 Concept_4314923 Nume_8430004 Concept_8362283 Nume_0688845 Concept_4121384 Nume_9174795 
+Concept_7215563 Nume_6308584 Concept_3091899 Nume_9628971 Concept_7215563 Nume_4755493 Concept_4121384 Nume_2756747 Concept_1330454 Nume_0165789 Concept_1330454 Nume_5496273 Concept_3091899 Nume_7070924 
+Rel_speciala Nume_8816862 Nume_8430004 
+
+Serv_6817640
+Concept_4121384 Nume_9543514 Concept_4121384 Nume_1490599 Concept_4121384 Nume_0882782 Concept_4121384 Nume_3568816 
+Concept_7215563 Nume_4566434 Concept_0603927 Nume_0244455 Concept_7215563 Nume_5295688 Concept_7215563 Nume_6990720 Concept_0603927 Nume_5401449 Concept_7215563 Nume_6674681 Concept_0603927 Nume_2867637 
+Rel_speciala Nume_9543514 Nume_1490599 Rel_4270516 Nume_1490599 Nume_5401449 
+
+Serv_9264002
+Concept_4121384 Nume_7139143 Concept_4121384 Nume_2742462 Concept_7215563 Nume_5497717 Concept_1330454 Nume_6334300 
+Concept_0603927 Nume_9217902 Concept_4314923 Nume_0828894 Concept_4121384 Nume_3918876 Concept_0603927 Nume_0993379 Concept_7215563 Nume_4501628 Concept_7215563 Nume_1614452 Concept_4314923 Nume_1091241 
+Rel_speciala Nume_7139143 Nume_2742462 
+
+Serv_9841098
+Concept_0603927 Nume_0029370 Concept_4121384 Nume_1433823 Concept_0603927 Nume_8051416 Concept_4121384 Nume_1488847 
+Concept_1330454 Nume_9763236 Concept_4314923 Nume_8315364 Concept_3091899 Nume_5719307 Concept_0603927 Nume_4519228 Concept_7215563 Nume_9312208 Concept_3091899 Nume_0285525 Concept_3091899 Nume_4449049 
+Rel_speciala Nume_0029370 Nume_1433823 
+
+Serv_7444023
+Concept_4121384 Nume_5066883 Concept_4121384 Nume_4810600 Concept_4121384 Nume_8769516 Concept_4121384 Nume_1834537 
+Concept_0603927 Nume_9125633 Concept_4121384 Nume_6922547 Concept_0603927 Nume_1184001 Concept_4121384 Nume_5443937 Concept_4121384 Nume_4410568 Concept_7215563 Nume_2164851 Concept_0603927 Nume_2957332 
+Rel_6492963 Nume_5066883 Nume_1184001 Rel_4270516 Nume_8769516 Nume_9125633 
+
+Serv_8643301
+Concept_0603927 Nume_6957832 Concept_7215563 Nume_9855389 Concept_7215563 Nume_1299330 Concept_4121384 Nume_0709967 
+Concept_7215563 Nume_4204188 Concept_8362283 Nume_1578001 Concept_4121384 Nume_5238617 Concept_4121384 Nume_5756026 Concept_1330454 Nume_3584946 Concept_0603927 Nume_6394599 Concept_4121384 Nume_4836565 
+Rel_2083262 Nume_1299330 Nume_3584946 Rel_speciala Nume_6957832 Nume_9855389 
+
+Serv_0998806
+Concept_4314923 Nume_4219377 Concept_4121384 Nume_9901447 Concept_4314923 Nume_6695002 Concept_4121384 Nume_5837928 
+Concept_0603927 Nume_9561098 Concept_8362283 Nume_4879556 Concept_1330454 Nume_1818063 Concept_4121384 Nume_1847527 Concept_4314923 Nume_4985943 Concept_8362283 Nume_1397891 Concept_0603927 Nume_1271527 
+Rel_3718028 Nume_9901447 Nume_6695002 Rel_speciala Nume_4219377 Nume_9901447 
+
+Serv_1
+Concept_1 Nume_1
+
+
+
+Serv_2
+Concept_1 Nume_1
+
+
+
+Serv_3
+Concept_1 Nume_1
+
+
+
+Serv_4
+Concept_1 Nume_1
+
+
+
+Serv_5
+Concept_1 Nume_1
+
+
+
+Serv_6
+Concept_1 Nume_1
+
+
+
+Serv_7
+Concept_1 Nume_1
+
+
+
+Serv_8
+Concept_1 Nume_1
+
+
+
+Serv_9
+Concept_1 Nume_1
+
+
+
+Serv_10
+Concept_1 Nume_1
+
+
+
+Serv_11
+Concept_1 Nume_1
+
+
+
+Serv_12
+Concept_1 Nume_1
+
+
+
+Serv_13
+Concept_1 Nume_1
+
+
+
+Serv_14
+Concept_1 Nume_1
+
+
+
+Serv_15
+Concept_1 Nume_1
+
+
+
+Serv_16
+Concept_1 Nume_1
+
+
+
+Serv_17
+Concept_1 Nume_1
+
+
+
+Serv_18
+Concept_1 Nume_1
+
+
+
+Serv_19
+Concept_1 Nume_1
+
+
+
+Serv_20
+Concept_1 Nume_1
+
+
+
+Serv_21
+Concept_1 Nume_1
+
+
+
+Serv_22
+Concept_1 Nume_1
+
+
+
+Serv_23
+Concept_1 Nume_1
+
+
+
+Serv_24
+Concept_1 Nume_1
+
+
+
+Serv_25
+Concept_1 Nume_1
+
+
+
+Serv_26
+Concept_1 Nume_1
+
+
+
+Serv_27
+Concept_1 Nume_1
+
+
+
+Serv_28
+Concept_1 Nume_1
+
+
+
+Serv_29
+Concept_1 Nume_1
+
+
+
+Serv_30
+Concept_1 Nume_1
+
+
+
+Serv_31
+Concept_1 Nume_1
+
+
+
+Serv_32
+Concept_1 Nume_1
+
+
+
+Serv_33
+Concept_1 Nume_1
+
+
+
+Serv_34
+Concept_1 Nume_1
+
+
+
+Serv_35
+Concept_1 Nume_1
+
+
+
+Serv_36
+Concept_1 Nume_1
+
+
+
+Serv_37
+Concept_1 Nume_1
+
+
+
+Serv_38
+Concept_1 Nume_1
+
+
+
+Serv_39
+Concept_1 Nume_1
+
+
+
+Serv_40
+Concept_1 Nume_1
+
+
+
+Serv_41
+Concept_1 Nume_1
+
+
+
+Serv_42
+Concept_1 Nume_1
+
+
+
+Serv_43
+Concept_1 Nume_1
+
+
+
+Serv_44
+Concept_1 Nume_1
+
+
+
+Serv_45
+Concept_1 Nume_1
+
+
+
+Serv_46
+Concept_1 Nume_1
+
+
+
+Serv_47
+Concept_1 Nume_1
+
+
+
+Serv_48
+Concept_1 Nume_1
+
+
+
+Serv_49
+Concept_1 Nume_1
+
+
+
+Serv_50
+Concept_1 Nume_1
+
+
+
+Serv_51
+Concept_1 Nume_1
+
+
+
+Serv_52
+Concept_1 Nume_1
+
+
+

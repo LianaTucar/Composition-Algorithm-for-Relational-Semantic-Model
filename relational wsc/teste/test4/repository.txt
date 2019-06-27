@@ -1,0 +1,21 @@
+4
+Serv_1
+B b
+A a 
+Rel_2 a b
+
+Serv_2
+B c
+A a 
+Rel_3 a c
+
+Serv_3
+A a
+D d 
+Rel_1 a d
+
+Serv_4
+D d
+E e 
+Rel_1 d e
+

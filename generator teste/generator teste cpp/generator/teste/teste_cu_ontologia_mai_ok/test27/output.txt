@@ -1,0 +1,439 @@
+#concepts 19, #relations 40, #rules 11.
+
+Concept_471 -> Concept_132
+Concept_132 -> Concept_019
+Concept_341 -> Concept_019
+Concept_384 -> Concept_132
+Concept_983 -> Concept_132
+Concept_476 -> Concept_341
+Concept_487 -> Concept_471
+Concept_358 -> Concept_132
+Concept_853 -> Concept_702
+Concept_456 -> Concept_019
+Concept_019 (root)
+Concept_569 -> Concept_384
+Concept_745 -> Concept_384
+Concept_524 -> Concept_132
+Concept_702 -> Concept_456
+Concept_988 -> Concept_927
+Concept_925 -> Concept_745
+Concept_927 -> Concept_745
+Concept_926 -> Concept_476
+
+Rel_924: 
+Rel_605: 
+Rel_209: 
+Rel_228: 
+Rel_743: 
+Rel_985: 
+Rel_424: 
+Rel_509: 
+Rel_060: 
+Rel_125: 
+Rel_860: 
+Rel_245: 
+Rel_267: 
+Rel_067: 
+Rel_582: 
+Rel_021: 
+Rel_516: 
+Rel_979: 
+Rel_737: 
+Rel_899: 
+Rel_910: 
+Rel_635: 
+Rel_757: 
+Rel_557: 
+Rel_711: 
+Rel_777: 
+Rel_370: 
+Rel_095: 
+Rel_051: 
+Rel_270: 
+Rel_091: 
+Rel_852: 
+Rel_211: 
+Rel_278: 
+Rel_333: 
+Rel_396: 
+Rel_771: 
+Rel_394: 
+Rel_450: 
+Rel_054: 
+
+Reg_317 X  premises: ( Rel_211(X, Y)  )  conclusions: ( Rel_211(X, Z)  ) Y  premises: ( Rel_557(Y, Z)  ) Z 
+Rel_211(X, Y) Rel_557(Y, Z) 
+Rel_211(X, Z) 
+
+Reg_669 X  premises: ( Rel_051(X, Y)  )  conclusions: ( Rel_211(X, Z)  ) Y  premises: ( Rel_557(Y, Z)  ) Z 
+Rel_051(X, Y) Rel_557(Y, Z) 
+Rel_211(X, Z) 
+
+Reg_744 X  premises: ( Rel_051(X, Y)  )  conclusions: ( Rel_211(X, Z)  ) Y  premises: ( Rel_557(Y, Z)  ) Z 
+Rel_051(X, Y) Rel_557(Y, Z) 
+Rel_211(X, Z) 
+
+Reg_325 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+Reg_413 X  premises: ( Rel_051(X, Y)  )  conclusions: ( Rel_211(X, Z)  ) Y  premises: ( Rel_557(Y, Z)  ) Z 
+Rel_051(X, Y) Rel_557(Y, Z) 
+Rel_211(X, Z) 
+
+Reg_423 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+Reg_445 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+Reg_896 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+Reg_982 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+Reg_189 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+Reg_024 X  premises: ( Rel_985(X, Y)  )  conclusions: ( Rel_985(X, Z)  ) Y  premises: ( Rel_209(Y, Z)  ) Z 
+Rel_209(Y, Z) Rel_985(X, Y) 
+Rel_985(X, Z) 
+
+#services (16) are :
+
+Serv_850
+input = Nume_162 : Concept_132 ( Rel_095(Nume_162, Nume_878)  ) , Nume_935 : Concept_358 ( Rel_605(Nume_935, Nume_162)  ) , Nume_878 : Concept_358 , Nume_692 : Concept_358 , 
+output = Nume_552 : Concept_358, Nume_628 : Concept_132, Nume_508 : Concept_524, 
+relations = Rel_605(Nume_935, Nume_162), Rel_095(Nume_162, Nume_878), 
+
+Serv_048
+input = Nume_396 : Concept_456 , Nume_206 : Concept_983 , Nume_846 : Concept_476 , Nume_164 : Concept_925 , 
+output = Nume_639 : Concept_524, Nume_974 : Concept_487, Nume_205 : Concept_019, 
+relations = 
+
+Serv_255
+input = Nume_860 : Concept_384 ( Rel_034(Nume_860, Nume_913)  ) , Nume_913 : Concept_927 , Nume_634 : Concept_925 , Nume_538 : Concept_456 , 
+output = Nume_533 : Concept_471, Nume_621 : Concept_476, Nume_759 : Concept_745, 
+relations = Rel_034(Nume_860, Nume_913), 
+
+Serv_830
+input = Nume_067 : Concept_358 , Nume_257 : Concept_358 ( Rel_605(Nume_257, Nume_228)  ) , Nume_228 : Concept_132 ( Rel_095(Nume_228, Nume_067) Rel_095(Nume_228, Nume_257)  ) , Nume_084 : Concept_358 , 
+output = Nume_496 : Concept_132, Nume_999 : Concept_132, Nume_216 : Concept_926, 
+relations = Rel_095(Nume_228, Nume_067), Rel_605(Nume_257, Nume_228), Rel_095(Nume_228, Nume_257), 
+
+Serv_973
+input = Nume_156 : Concept_476 ( Rel_238(Nume_156, Nume_357)  ) , Nume_357 : Concept_927 , Nume_034 : Concept_927 , Nume_822 : Concept_384 , 
+output = Nume_613 : Concept_983, Nume_602 : Concept_702, Nume_141 : Concept_471, 
+relations = Rel_238(Nume_156, Nume_357), 
+
+Serv_445
+input = Nume_379 : Concept_384 , Nume_058 : Concept_456 ( Rel_582(Nume_058, Nume_480)  ) , Nume_480 : Concept_384 , Nume_625 : Concept_702 , 
+output = Nume_303 : Concept_983, Nume_275 : Concept_476, Nume_990 : Concept_925, 
+relations = Rel_582(Nume_058, Nume_480), 
+
+Serv_226
+input = Nume_831 : Concept_925 , Nume_494 : Concept_487 , Nume_363 : Concept_487 , Nume_814 : Concept_132 , 
+output = Nume_023 : Concept_132, Nume_082 : Concept_456, Nume_456 : Concept_926, 
+relations = 
+
+Serv_369
+input = Nume_094 : Concept_569 , Nume_980 : Concept_476 , Nume_727 : Concept_341 ( Rel_755(Nume_727, Nume_094)  ) , Nume_294 : Concept_487 , 
+output = Nume_217 : Concept_853, Nume_830 : Concept_569, Nume_098 : Concept_702, 
+relations = Rel_755(Nume_727, Nume_094), 
+
+Serv_138
+input = Nume_568 : Concept_988 , Nume_287 : Concept_988 , Nume_157 : Concept_569 , Nume_805 : Concept_983 , 
+output = Nume_341 : Concept_456, Nume_994 : Concept_925, Nume_253 : Concept_927, 
+relations = 
+
+Serv_082
+input = Nume_792 : Concept_487 , Nume_791 : Concept_925 , Nume_603 : Concept_926 , Nume_406 : Concept_524 , 
+output = Nume_344 : Concept_487, Nume_286 : Concept_487, Nume_059 : Concept_132, 
+relations = 
+
+Serv_890
+input = Nume_468 : Concept_456 ( Rel_509(Nume_468, Nume_795)  ) , Nume_795 : Concept_358 , Nume_783 : Concept_358 , Nume_755 : Concept_358 , 
+output = Nume_058 : Concept_341, Nume_206 : Concept_341, Nume_387 : Concept_132, 
+relations = Rel_509(Nume_468, Nume_795), 
+
+Serv_253
+input = Nume_405 : Concept_358 , Nume_981 : Concept_456 , Nume_110 : Concept_456 ( Rel_509(Nume_110, Nume_405)  ) , Nume_868 : Concept_358 , 
+output = Nume_907 : Concept_524, Nume_829 : Concept_926, Nume_307 : Concept_569, 
+relations = Rel_509(Nume_110, Nume_405), 
+
+Serv_693
+input = Nume_652 : Concept_926 , Nume_071 : Concept_569 , Nume_519 : Concept_569 , Nume_528 : Concept_487 , 
+output = Nume_204 : Concept_927, Nume_348 : Concept_341, Nume_950 : Concept_524, 
+relations = 
+
+Serv_382
+input = Nume_939 : Concept_456 ( Rel_582(Nume_939, Nume_264)  ) , Nume_630 : Concept_341 , Nume_344 : Concept_341 , Nume_121 : Concept_524 , 
+output = Nume_264 : Concept_384, Nume_291 : Concept_926, Nume_901 : Concept_456, 
+relations = Rel_582(Nume_939, Nume_264), 
+
+Serv_922
+input = Nume_146 : Concept_476 , Nume_026 : Concept_988 ( Rel_690(Nume_026, Nume_146)  ) , Nume_926 : Concept_702 , Nume_516 : Concept_476 , 
+output = Nume_314 : Concept_132, Nume_014 : Concept_476, Nume_198 : Concept_476, 
+relations = Rel_690(Nume_026, Nume_146), 
+
+Serv_637
+input = Nume_365 : Concept_341 , Nume_945 : Concept_456 ( Rel_582(Nume_945, Nume_797)  ) , Nume_151 : Concept_926 ( Rel_248(Nume_151, Nume_365)  ) , Nume_021 : Concept_925 , 
+output = Nume_563 : Concept_925, Nume_797 : Concept_384, Nume_558 : Concept_926, 
+relations = Rel_248(Nume_151, Nume_365), Rel_582(Nume_945, Nume_797), 
+
+nume_rand
+input = Param_750 : Concept_853 , 
+output = Param_994 : Concept_046, Param_626 : Concept_132, Param_998 : Concept_358, Param_077 : Concept_456, Param_166 : Concept_487, 
+relations = Rel_370(Param_166, Param_998), Rel_095(Param_626, Param_998), 
+
+-------------------------------------------------------------- Input parsing done.
+Knowledge after learning user input and running rules:
+Object by name:
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   nume_rand_0_Param_077 : Concept_456 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+-------------------------------------------------------------- Start building composition.
+Called service Serv_850 with params:Nume_162(nume_rand_0_Param_626) Nume_935(nume_rand_0_Param_998) Nume_878(nume_rand_0_Param_998) Nume_692(nume_rand_0_Param_998) , knowledge after is:
+Object by name:
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   nume_rand_0_Param_077 : Concept_456 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+Called service Serv_253 with params:Nume_405(Serv_850_1_Nume_552) Nume_981(nume_rand_0_Param_077) Nume_110(nume_rand_0_Param_077) Nume_868(Serv_850_1_Nume_552) , knowledge after is:
+Object by name:
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with no relations.
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+Called service Serv_693 with params:Nume_652(Serv_253_1_Nume_829) Nume_071(Serv_253_1_Nume_307) Nume_519(Serv_253_1_Nume_307) Nume_528(nume_rand_0_Param_166) , knowledge after is:
+Object by name:
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with no relations.
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+Called service Serv_382 with params:Nume_939(nume_rand_0_Param_077) Nume_630(Serv_693_1_Nume_348) Nume_344(Serv_693_1_Nume_348) Nume_121(Serv_253_1_Nume_907) , knowledge after is:
+Object by name:
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+Called service Serv_850 with params:Nume_162(nume_rand_0_Param_626) Nume_935(Serv_850_1_Nume_552) Nume_878(nume_rand_0_Param_998) Nume_692(nume_rand_0_Param_998) , knowledge after is:
+Object by name:
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_850_2_Nume_628 : Concept_132 with no relations.
+   Serv_850_2_Nume_508 : Concept_524 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_850_2_Nume_552 : Concept_358 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+Called service Serv_369 with params:Nume_094(Serv_253_1_Nume_307) Nume_980(Serv_253_1_Nume_829) Nume_727(Serv_382_1_Nume_291) Nume_294(nume_rand_0_Param_166) , knowledge after is:
+Object by name:
+   Serv_369_1_Nume_217 : Concept_853 with no relations.
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_850_2_Nume_628 : Concept_132 with no relations.
+   Serv_850_2_Nume_508 : Concept_524 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_369_1_Nume_830 : Concept_569 with no relations.
+   Serv_850_2_Nume_552 : Concept_358 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   Serv_369_1_Nume_098 : Concept_702 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+Called service Serv_253 with params:Nume_405(Serv_850_2_Nume_552) Nume_981(Serv_369_1_Nume_098) Nume_110(Serv_369_1_Nume_098) Nume_868(Serv_850_1_Nume_552) , knowledge after is:
+Object by name:
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_253_2_Nume_307 : Concept_569 with no relations.
+   Serv_850_2_Nume_628 : Concept_132 with no relations.
+   Serv_850_2_Nume_508 : Concept_524 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_369_1_Nume_217 : Concept_853 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_369_1_Nume_830 : Concept_569 with no relations.
+   Serv_850_2_Nume_552 : Concept_358 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_369_1_Nume_098 : Concept_702 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   Serv_253_2_Nume_907 : Concept_524 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+   Serv_253_2_Nume_829 : Concept_926 with no relations.
+Called service Serv_693 with params:Nume_652(Serv_382_1_Nume_291) Nume_071(Serv_369_1_Nume_830) Nume_519(Serv_369_1_Nume_830) Nume_528(nume_rand_0_Param_166) , knowledge after is:
+Object by name:
+   Serv_693_2_Nume_348 : Concept_341 with no relations.
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_253_2_Nume_307 : Concept_569 with no relations.
+   Serv_693_2_Nume_204 : Concept_927 with no relations.
+   Serv_850_2_Nume_628 : Concept_132 with no relations.
+   Serv_850_2_Nume_508 : Concept_524 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_369_1_Nume_217 : Concept_853 with no relations.
+   Serv_693_2_Nume_950 : Concept_524 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_369_1_Nume_830 : Concept_569 with no relations.
+   Serv_850_2_Nume_552 : Concept_358 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_369_1_Nume_098 : Concept_702 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   Serv_253_2_Nume_907 : Concept_524 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+   Serv_253_2_Nume_829 : Concept_926 with no relations.
+Called service Serv_382 with params:Nume_939(Serv_369_1_Nume_217) Nume_630(Serv_693_1_Nume_348) Nume_344(Serv_693_2_Nume_348) Nume_121(Serv_850_2_Nume_508) , knowledge after is:
+Object by name:
+   Serv_693_2_Nume_348 : Concept_341 with no relations.
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_253_2_Nume_307 : Concept_569 with no relations.
+   Serv_693_2_Nume_204 : Concept_927 with no relations.
+   Serv_850_2_Nume_628 : Concept_132 with no relations.
+   Serv_850_2_Nume_508 : Concept_524 with no relations.
+   Serv_382_2_Nume_264 : Concept_384 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_382_2_Nume_291 : Concept_926 with no relations.
+   Serv_369_1_Nume_217 : Concept_853 with relations: Rel_582(Serv_369_1_Nume_217, Serv_382_2_Nume_264) 
+   Serv_693_2_Nume_950 : Concept_524 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_369_1_Nume_830 : Concept_569 with no relations.
+   Serv_850_2_Nume_552 : Concept_358 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_382_2_Nume_901 : Concept_456 with no relations.
+   Serv_369_1_Nume_098 : Concept_702 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   Serv_253_2_Nume_907 : Concept_524 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+   Serv_253_2_Nume_829 : Concept_926 with no relations.
+Called service Serv_850 with params:Nume_162(nume_rand_0_Param_626) Nume_935(nume_rand_0_Param_998) Nume_878(nume_rand_0_Param_998) Nume_692(Serv_850_2_Nume_552) , knowledge after is:
+Object by name:
+   Serv_693_2_Nume_348 : Concept_341 with no relations.
+   Serv_382_1_Nume_901 : Concept_456 with no relations.
+   Serv_253_2_Nume_307 : Concept_569 with no relations.
+   Serv_693_2_Nume_204 : Concept_927 with no relations.
+   Serv_850_2_Nume_628 : Concept_132 with no relations.
+   Serv_850_2_Nume_508 : Concept_524 with no relations.
+   Serv_382_2_Nume_264 : Concept_384 with no relations.
+   Serv_693_1_Nume_950 : Concept_524 with no relations.
+   Serv_850_1_Nume_508 : Concept_524 with no relations.
+   Serv_253_1_Nume_307 : Concept_569 with no relations.
+   Serv_253_1_Nume_829 : Concept_926 with no relations.
+   Serv_382_1_Nume_291 : Concept_926 with no relations.
+   nume_rand_0_Param_077 : Concept_456 with relations: Rel_582(nume_rand_0_Param_077, Serv_382_1_Nume_264) 
+   Serv_253_1_Nume_907 : Concept_524 with no relations.
+   Serv_850_1_Nume_552 : Concept_358 with no relations.
+   nume_rand_0_Param_994 : Concept_046 with no relations.
+   Serv_850_3_Nume_508 : Concept_524 with no relations.
+   nume_rand_0_Param_998 : Concept_358 with no relations.
+   Serv_850_3_Nume_628 : Concept_132 with no relations.
+   Serv_382_2_Nume_291 : Concept_926 with no relations.
+   Serv_369_1_Nume_217 : Concept_853 with relations: Rel_582(Serv_369_1_Nume_217, Serv_382_2_Nume_264) 
+   Serv_693_2_Nume_950 : Concept_524 with no relations.
+   Serv_693_1_Nume_204 : Concept_927 with no relations.
+   Serv_693_1_Nume_348 : Concept_341 with no relations.
+   Serv_369_1_Nume_830 : Concept_569 with no relations.
+   Serv_850_2_Nume_552 : Concept_358 with no relations.
+   Serv_850_1_Nume_628 : Concept_132 with no relations.
+   Serv_850_3_Nume_552 : Concept_358 with no relations.
+   Serv_382_2_Nume_901 : Concept_456 with no relations.
+   Serv_369_1_Nume_098 : Concept_702 with no relations.
+   nume_rand_0_Param_166 : Concept_487 with relations: Rel_370(nume_rand_0_Param_166, nume_rand_0_Param_998) 
+   nume_rand_0_Param_626 : Concept_132 with relations: Rel_095(nume_rand_0_Param_626, nume_rand_0_Param_998) 
+   Serv_253_2_Nume_907 : Concept_524 with no relations.
+   Serv_382_1_Nume_264 : Concept_384 with no relations.
+   Serv_253_2_Nume_829 : Concept_926 with no relations.
+Solved user query with: Param_750(Serv_369_1_Nume_217) 

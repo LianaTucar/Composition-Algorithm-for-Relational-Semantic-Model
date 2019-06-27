@@ -1,0 +1,5 @@
+nume_rand
+A a 
+B b
+Rel_2 a b
+

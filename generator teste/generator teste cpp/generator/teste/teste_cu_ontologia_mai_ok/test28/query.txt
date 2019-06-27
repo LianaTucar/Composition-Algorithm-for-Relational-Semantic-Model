@@ -1,0 +1,5 @@
+nume_rand
+Concept_116 Param_840 Concept_207 Param_712 Concept_254 Param_333 Concept_693 Param_825 
+Concept_209 Param_463 
+Rel_211 Param_840 Param_333 Rel_653 Param_840 Param_712 Rel_281 Param_712 Param_333 Rel_238 Param_712 Param_840 Rel_260 Param_463 Param_463 
+

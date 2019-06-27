@@ -1,0 +1,39 @@
+11 7 4
+
+Concept_0323221 Concept_0323221
+Concept_1740893 Concept_0323221
+Concept_3004562 Concept_1740893
+Concept_4399905 Concept_1740893
+Concept_5011572 Concept_4399905
+Concept_7379095 Concept_5011572
+Concept_7460833 Concept_1740893
+Concept_7477198 Concept_1740893
+Concept_7726774 Concept_1740893
+Concept_7969560 Concept_0323221
+Concept_2305810 Concept_7726774
+
+Rel_4862118
+Rel_0434605
+Rel_speciala
+Rel_7370338
+Rel_0012493
+Rel_9315762
+Rel_4605200
+
+Reg1 X Y
+Rel_7370338 X Y
+Rel_speciala X Y
+
+Reg2 X Y
+Rel_7370338 X Y
+Rel_speciala X Y
+
+Reg3 X Y
+Rel_7370338 X Y
+Rel_speciala X Y
+
+Reg4 X Y
+Rel_7370338 X Y
+Rel_speciala X Y
+
+

@@ -1,0 +1,4 @@
+nume_rand
+Concept_17 Param_70 Concept_58 Param_09 Concept_93 Param_33 
+Concept_31 Param_27 
+Rel_55 Param_09 Param_09 Rel_17 Param_70 Param_70 

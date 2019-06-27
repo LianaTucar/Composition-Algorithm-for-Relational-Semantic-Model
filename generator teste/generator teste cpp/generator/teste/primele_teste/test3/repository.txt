@@ -1,0 +1,21 @@
+4
+Serv_Q8E9A
+Concept_7DZAC Nume_OR4SB Concept_TSRVF Nume_B3UIZ 
+Concept_LHRZ7 Nume_JLINJ Concept_TSRVF Nume_O757G Concept_LHRZ7 Nume_4TEQH Concept_7DZAC Nume_3SVVN 
+
+
+Serv_CTW8X
+Concept_7DZAC Nume_Z6GMK Concept_7DZAC Nume_CJM06 
+Concept_LHRZ7 Nume_WDUGB Concept_IVDB9 Nume_BFX4F Concept_R4HYW Nume_IAEXW Concept_TSRVF Nume_1NTI8 
+
+
+Serv_BKQHM
+Concept_LHRZ7 Nume_UDFR7 Concept_R4HYW Nume_NQ1Z9 
+Concept_1T90Y Nume_LB8C5 Concept_TSRVF Nume_4V7SX Concept_R4HYW Nume_SLJMV Concept_7DZAC Nume_2LQGK 
+
+
+Serv_2TR0K
+Concept_R4HYW Nume_OP76E Concept_7DZAC Nume_554XK 
+Concept_IVDB9 Nume_4F7TA Concept_R4HYW Nume_SGAY5 Concept_EOWIU Nume_ONA35 Concept_7DZAC Nume_XIEWT 
+Rel_TYOHE Nume_OP76E Nume_ONA35 
+

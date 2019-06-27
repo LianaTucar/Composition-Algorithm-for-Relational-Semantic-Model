@@ -1,0 +1,21 @@
+4
+Serv_2KX6X
+Concept_33N1K Nume_298CL Concept_NH7JQ Nume_XBBBW 
+Concept_BQ4FW Nume_G4X3V Concept_XBU0N Nume_2HIC4 Concept_XBU0N Nume_RVAZH Concept_BQ4FW Nume_CWQBG 
+Rel_1VI2E Nume_298CL Nume_RVAZH 
+
+Serv_5ZTP5
+Concept_NH7JQ Nume_5LN0F Concept_33N1K Nume_1FDMP 
+Concept_WYJEQ Nume_G9FMA Concept_33N1K Nume_F6H6O Concept_XBU0N Nume_0YJ4U Concept_XBU0N Nume_SAQL9 
+Rel_UHDAE Nume_5LN0F Nume_G9FMA 
+
+Serv_U0FWK
+Concept_NH7JQ Nume_4RVQS Concept_XBU0N Nume_LJQD6 
+Concept_WYJEQ Nume_ONNDP Concept_BQ4FW Nume_4TWAA Concept_33N1K Nume_VAAUE Concept_7S68R Nume_H77HA 
+
+
+Serv_7IHXK
+Concept_33N1K Nume_4YGVM Concept_BQ4FW Nume_OIQWW 
+Concept_33N1K Nume_L7V5R Concept_7S68R Nume_3TMH8 Concept_NH7JQ Nume_Q67N9 Concept_WYJEQ Nume_R4ZGG 
+
+

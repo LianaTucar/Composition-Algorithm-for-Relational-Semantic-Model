@@ -1,0 +1,21 @@
+8 8 0
+
+Concept_0073360 Concept_0073360
+Concept_2434528 Concept_0073360
+Concept_3801569 Concept_0073360
+Concept_5133103 Concept_0073360
+Concept_6448225 Concept_3801569
+Concept_6892489 Concept_3801569
+Concept_8618114 Concept_3801569
+Concept_7834438 Concept_6892489
+
+Rel_4036877
+Rel_8617279
+Rel_speciala
+Rel_1068940
+Rel_0322873
+Rel_6922227
+Rel_3686764
+Rel_0231177
+
+

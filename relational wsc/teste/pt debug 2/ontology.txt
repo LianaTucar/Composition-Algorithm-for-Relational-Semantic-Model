@@ -1,0 +1,25 @@
+8 8 1
+
+Concept_2610559 Concept_2610559
+Concept_2825136 Concept_2610559
+Concept_3331499 Concept_2610559
+Concept_3694716 Concept_3331499
+Concept_4669008 Concept_3694716
+Concept_8858085 Concept_4669008
+Concept_8926855 Concept_4669008
+Concept_2931146 Concept_3694716
+
+Rel_9143801
+Rel_6365071
+Rel_6888619
+Rel_speciala
+Rel_1208821
+Rel_7610414
+Rel_7586095
+Rel_6268914
+
+Reg1 X Y
+Rel_9143801 X Y
+Rel_speciala X Y
+
+

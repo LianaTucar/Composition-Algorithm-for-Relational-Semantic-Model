@@ -1,0 +1,176 @@
+35
+Serv_66198
+Concept_22954 Nume_53304 Concept_46717 Nume_78798 Concept_46717 Nume_86407 Concept_46717 Nume_50492 Concept_46717 Nume_01460 Concept_46717 Nume_46616 Concept_22954 Nume_94154 Concept_46717 Nume_18053 
+Concept_84681 Nume_86608 Concept_96840 Nume_71418 Concept_22954 Nume_42265 Concept_46717 Nume_89914 Concept_46717 Nume_07905 Concept_24561 Nume_49984 
+Rel_74566 Nume_53304 Nume_46616 Rel_74566 Nume_94154 Nume_78798 Rel_87829 Nume_46616 Nume_94154 
+
+Serv_11988
+Concept_46717 Nume_74750 Concept_22954 Nume_44319 Concept_46717 Nume_39900 Concept_22954 Nume_49525 Concept_46717 Nume_00685 Concept_22954 Nume_05292 Concept_22954 Nume_64507 Concept_46717 Nume_84288 
+Concept_24561 Nume_90183 Concept_46717 Nume_93029 Concept_46717 Nume_74596 Concept_24561 Nume_72081 Concept_96840 Nume_73038 Concept_24561 Nume_72889 
+Rel_26052 Nume_49525 Nume_00685 Rel_81717 Nume_00685 Nume_49525 Rel_26052 Nume_49525 Nume_74750 
+
+Serv_87455
+Concept_46717 Nume_47053 Concept_46717 Nume_56215 Concept_22954 Nume_45779 Concept_46717 Nume_25507 Concept_46717 Nume_36393 Concept_22954 Nume_52550 Concept_22954 Nume_45811 Concept_22954 Nume_74567 
+Concept_24561 Nume_09703 Concept_96840 Nume_24635 Concept_24561 Nume_66166 Concept_96840 Nume_23600 Concept_46717 Nume_44680 Concept_24561 Nume_08771 
+Rel_26052 Nume_45779 Nume_25507 Rel_81717 Nume_25507 Nume_45779 
+
+Serv_85012
+Concept_46717 Nume_59561 Concept_96840 Nume_35814 Concept_46717 Nume_35691 Concept_84681 Nume_61395 Concept_84681 Nume_78216 Concept_84681 Nume_42860 Concept_22954 Nume_09635 Concept_46717 Nume_67002 
+Concept_84681 Nume_73941 Concept_22954 Nume_77075 Concept_81055 Nume_75106 Concept_06470 Nume_31000 Concept_84681 Nume_04399 Concept_46717 Nume_00647 
+Rel_81717 Nume_35691 Nume_09635 Rel_36989 Nume_35814 Nume_42860 
+
+Serv_88999
+Concept_96840 Nume_97329 Concept_84681 Nume_72402 Concept_22954 Nume_29298 Concept_84681 Nume_33992 Concept_46717 Nume_70897 Concept_24561 Nume_98473 Concept_96840 Nume_15654 Concept_24561 Nume_04742 
+Concept_81055 Nume_98228 Concept_81055 Nume_20331 Concept_46717 Nume_77925 Concept_22954 Nume_17240 Concept_81055 Nume_61006 Concept_81055 Nume_30880 
+Rel_72241 Nume_33992 Nume_15654 
+
+Serv_82794
+Concept_84681 Nume_72976 Concept_22954 Nume_12855 Concept_96840 Nume_35677 Concept_22954 Nume_82358 Concept_96840 Nume_93203 Concept_24561 Nume_06369 Concept_46717 Nume_83661 Concept_24561 Nume_68146 
+Concept_84681 Nume_10762 Concept_24561 Nume_53642 Concept_81055 Nume_06981 Concept_96840 Nume_75736 Concept_46717 Nume_81909 Concept_96840 Nume_39637 
+Rel_81717 Nume_83661 Nume_12855 
+
+Serv_66939
+Concept_06470 Nume_08014 Concept_37724 Nume_69124 Concept_84681 Nume_03262 Concept_37724 Nume_33180 Concept_96840 Nume_50587 Concept_84681 Nume_17687 Concept_81055 Nume_73113 Concept_96840 Nume_64531 
+Concept_24561 Nume_97283 Concept_24561 Nume_33133 Concept_85202 Nume_70527 Concept_96840 Nume_08312 Concept_85202 Nume_32962 Concept_51551 Nume_89010 
+Rel_72241 Nume_03262 Nume_50587 
+
+Serv_93279
+Concept_37724 Nume_44142 Concept_81055 Nume_64259 Concept_84681 Nume_34065 Concept_96840 Nume_09014 Concept_22954 Nume_08840 Concept_81055 Nume_08186 Concept_37724 Nume_81124 Concept_06470 Nume_91835 
+Concept_06470 Nume_36728 Concept_84681 Nume_63572 Concept_81055 Nume_93693 Concept_81055 Nume_44614 Concept_37724 Nume_75160 Concept_24561 Nume_21764 
+
+
+Serv_03789
+Concept_24561 Nume_38675 Concept_81055 Nume_19822 Concept_96840 Nume_13989 Concept_46717 Nume_83010 Concept_37724 Nume_04140 Concept_81055 Nume_03236 Concept_06470 Nume_26010 Concept_24561 Nume_35481 
+Concept_22954 Nume_76450 Concept_64856 Nume_02503 Concept_46717 Nume_48805 Concept_51551 Nume_87506 Concept_81055 Nume_17495 Concept_64856 Nume_97718 
+Rel_32450 Nume_26010 Nume_04140 
+
+Serv_80179
+Concept_81055 Nume_89784 Concept_96840 Nume_04297 Concept_81055 Nume_54952 Concept_46717 Nume_05580 Concept_96840 Nume_83135 Concept_96840 Nume_03121 Concept_06470 Nume_46143 Concept_37724 Nume_50934 
+Concept_51551 Nume_03114 Concept_37724 Nume_36284 Concept_96840 Nume_19877 Concept_22954 Nume_74402 Concept_06470 Nume_78396 Concept_24561 Nume_95678 
+
+
+Serv_89888
+Concept_46717 Nume_82306 Concept_51551 Nume_64636 Concept_22954 Nume_16187 Concept_81055 Nume_72444 Concept_51551 Nume_81509 Concept_84681 Nume_64505 Concept_51551 Nume_23446 Concept_22954 Nume_02708 
+Concept_58081 Nume_18888 Concept_06470 Nume_55838 Concept_65252 Nume_83971 Concept_95285 Nume_55110 Concept_24561 Nume_28685 Concept_64856 Nume_45075 
+
+
+Serv_92657
+Concept_24561 Nume_99774 Concept_46717 Nume_41554 Concept_06470 Nume_83576 Concept_85202 Nume_36306 Concept_24561 Nume_75616 Concept_51551 Nume_42629 Concept_24561 Nume_77420 Concept_46717 Nume_43940 
+Concept_46717 Nume_69034 Concept_65252 Nume_28083 Concept_51551 Nume_03930 Concept_85202 Nume_92246 Concept_96840 Nume_70040 Concept_22954 Nume_98474 
+
+
+Serv_67846
+Concept_24561 Nume_93617 Concept_22954 Nume_80889 Concept_46717 Nume_71924 Concept_22954 Nume_86313 Concept_46717 Nume_20312 Concept_64856 Nume_61457 Concept_64856 Nume_36883 Concept_64856 Nume_51330 
+Concept_64856 Nume_36360 Concept_22954 Nume_43709 Concept_22954 Nume_65685 Concept_58081 Nume_51936 Concept_37724 Nume_63013 Concept_84681 Nume_76155 
+
+
+Serv_80420
+Concept_84681 Nume_73425 Concept_22954 Nume_09769 Concept_96840 Nume_45971 Concept_22954 Nume_89212 Concept_22954 Nume_00569 Concept_81055 Nume_71542 Concept_95285 Nume_21556 Concept_65252 Nume_25428 
+Concept_65252 Nume_58472 Concept_22954 Nume_44341 Concept_51551 Nume_79079 Concept_24561 Nume_97974 Concept_96840 Nume_38876 Concept_06470 Nume_76714 
+
+
+Serv_75383
+Concept_96840 Nume_73206 Concept_06470 Nume_64308 Concept_81055 Nume_37542 Concept_46717 Nume_76944 Concept_22954 Nume_97106 Concept_95285 Nume_96349 Concept_96840 Nume_01722 Concept_95285 Nume_40704 
+Concept_24561 Nume_35392 Concept_87678 Nume_01855 Concept_64856 Nume_07713 Concept_81055 Nume_83880 Concept_49866 Nume_54099 Concept_95285 Nume_56327 
+
+
+Serv_71392
+Concept_46717 Nume_61614 Concept_37724 Nume_37033 Concept_37724 Nume_66625 Concept_22954 Nume_48870 Concept_65252 Nume_24685 Concept_85202 Nume_30554 Concept_84681 Nume_27582 Concept_64856 Nume_58815 
+Concept_37724 Nume_06117 Concept_58081 Nume_90201 Concept_84681 Nume_62943 Concept_24561 Nume_09379 Concept_65252 Nume_05776 Concept_37724 Nume_78549 
+
+
+Serv_30059
+Concept_24561 Nume_95219 Concept_64856 Nume_01195 Concept_64856 Nume_48832 Concept_22954 Nume_62666 Concept_06470 Nume_26810 Concept_95285 Nume_26337 Concept_51551 Nume_07530 Concept_81055 Nume_28434 
+Concept_24561 Nume_75511 Concept_84681 Nume_00871 Concept_81055 Nume_85968 Concept_85202 Nume_89403 Concept_22954 Nume_70458 Concept_85202 Nume_32256 
+
+
+Serv_43774
+Concept_24561 Nume_52684 Concept_96840 Nume_76663 Concept_22954 Nume_17893 Concept_24561 Nume_82692 Concept_24561 Nume_46420 Concept_96840 Nume_43025 Concept_84681 Nume_45618 Concept_84681 Nume_85332 
+Concept_06470 Nume_33927 Concept_06470 Nume_92926 Concept_96840 Nume_65840 Concept_84681 Nume_13248 Concept_22954 Nume_12552 Concept_37724 Nume_39654 
+Rel_speciala Nume_52684 Nume_76663 
+
+Serv_26108
+Concept_81055 Nume_99142 Concept_06470 Nume_33763 Concept_22954 Nume_11531 Concept_81055 Nume_56296 Concept_24561 Nume_57159 Concept_37724 Nume_95062 Concept_37724 Nume_62177 Concept_37724 Nume_53377 
+Concept_37724 Nume_02685 Concept_46717 Nume_18164 Concept_24561 Nume_31158 Concept_64856 Nume_43153 Concept_96840 Nume_42068 Concept_96840 Nume_28269 
+Rel_speciala Nume_99142 Nume_33763 
+
+Serv_42508
+Concept_37724 Nume_11694 Concept_81055 Nume_84613 Concept_46717 Nume_37417 Concept_64856 Nume_30036 Concept_24561 Nume_75817 Concept_64856 Nume_54837 Concept_85202 Nume_69755 Concept_46717 Nume_27655 
+Concept_24561 Nume_90691 Concept_24561 Nume_83598 Concept_24561 Nume_01915 Concept_37724 Nume_75157 Concept_51551 Nume_47761 Concept_65252 Nume_08002 
+Rel_speciala Nume_11694 Nume_84613 
+
+Serv_94499
+Concept_22954 Nume_38793 Concept_24561 Nume_75872 Concept_22954 Nume_50297 Concept_96840 Nume_64256 Concept_22954 Nume_34461 Concept_84681 Nume_63357 Concept_24561 Nume_40375 Concept_96840 Nume_97128 
+Concept_81055 Nume_61767 Concept_24561 Nume_54667 Concept_46717 Nume_23560 Concept_46717 Nume_68557 Concept_24561 Nume_45658 Concept_81055 Nume_54401 
+Rel_speciala Nume_38793 Nume_75872 
+
+Serv_97670
+Concept_22954 Nume_78680 Concept_22954 Nume_28415 Concept_46717 Nume_91242 Concept_22954 Nume_05393 Concept_22954 Nume_72410 Concept_22954 Nume_36617 Concept_46717 Nume_14058 Concept_46717 Nume_62548 
+Concept_46717 Nume_09047 Concept_24561 Nume_95010 Concept_22954 Nume_15517 Concept_22954 Nume_88417 Concept_24561 Nume_25385 Concept_84681 Nume_17681 
+Rel_speciala Nume_78680 Nume_28415 Rel_87829 Nume_91242 Nume_72410 Rel_74566 Nume_72410 Nume_91242 
+
+Serv_62261
+Concept_46717 Nume_21541 Concept_51551 Nume_68652 Concept_64856 Nume_65286 Concept_95285 Nume_76004 Concept_95285 Nume_73035 Concept_84681 Nume_64668 Concept_85202 Nume_89024 Concept_64856 Nume_64391 
+Concept_24561 Nume_63862 Concept_95285 Nume_18829 Concept_58081 Nume_33551 Concept_64856 Nume_23223 Concept_24561 Nume_45747 Concept_39131 Nume_04591 
+Rel_speciala Nume_21541 Nume_68652 Rel_42029 Nume_68652 Nume_89024 
+
+Serv_34792
+Concept_84681 Nume_42522 Concept_85202 Nume_45245 Concept_84681 Nume_64756 Concept_81055 Nume_85957 Concept_22954 Nume_36633 Concept_37724 Nume_36933 Concept_46717 Nume_52529 Concept_84681 Nume_06695 
+Concept_06470 Nume_90194 Concept_06470 Nume_68831 Concept_64856 Nume_51455 Concept_95285 Nume_39282 Concept_24561 Nume_45153 Concept_64856 Nume_24007 
+Rel_speciala Nume_42522 Nume_45245 
+
+Serv_18551
+Concept_46717 Nume_13537 Concept_22954 Nume_61430 Concept_46717 Nume_71941 Concept_46717 Nume_09871 Concept_46717 Nume_91798 Concept_22954 Nume_11812 Concept_22954 Nume_18871 Concept_46717 Nume_72043 
+Concept_96840 Nume_85365 Concept_84681 Nume_56136 Concept_24561 Nume_17766 Concept_46717 Nume_81188 Concept_96840 Nume_09448 Concept_46717 Nume_03692 
+Rel_87829 Nume_91798 Nume_11812 Rel_speciala Nume_13537 Nume_61430 
+
+Serv_76749
+Concept_41583 Nume_67821 Concept_41583 Nume_53014 Concept_41583 Nume_57497 Concept_41583 Nume_00341 Concept_73320 Nume_88277 Concept_41583 Nume_06578 Concept_41583 Nume_56272 Concept_41583 Nume_53078 
+Concept_73320 Nume_33887 Concept_73320 Nume_13028 Concept_41583 Nume_57486 Concept_73320 Nume_68824 Concept_73320 Nume_47092 Concept_41583 Nume_99916 
+Rel_58749 Nume_56272 Nume_13028 Rel_58749 Nume_06578 Nume_47092 Rel_58749 Nume_67821 Nume_88277 
+
+Serv_48429
+Concept_41583 Nume_65032 Concept_73320 Nume_82206 Concept_73320 Nume_05975 Concept_41583 Nume_65866 Concept_41583 Nume_44481 Concept_41583 Nume_78759 Concept_73320 Nume_96216 Concept_41583 Nume_96409 
+Concept_73320 Nume_11443 Concept_41583 Nume_41450 Concept_73320 Nume_86136 Concept_73320 Nume_15530 Concept_41583 Nume_17465 Concept_73320 Nume_39226 
+Rel_58749 Nume_65032 Nume_05975 Rel_58749 Nume_65866 Nume_82206 
+
+Serv_01321
+Concept_41583 Nume_78175 Concept_73320 Nume_63673 Concept_73320 Nume_98434 Concept_41583 Nume_87648 Concept_73320 Nume_41301 Concept_73320 Nume_22440 Concept_73320 Nume_66193 Concept_41583 Nume_27670 
+Concept_73320 Nume_10018 Concept_41583 Nume_67794 Concept_41583 Nume_66336 Concept_41583 Nume_58268 Concept_73320 Nume_78311 Concept_41583 Nume_59680 
+
+
+Serv_95701
+Concept_41583 Nume_05299 Concept_41583 Nume_38724 Concept_41583 Nume_17092 Concept_73320 Nume_00364 Concept_41583 Nume_15195 Concept_41583 Nume_90871 Concept_41583 Nume_96369 Concept_73320 Nume_60524 
+Concept_41583 Nume_98777 Concept_73320 Nume_41656 Concept_73320 Nume_16030 Concept_41583 Nume_96597 Concept_73320 Nume_75159 Concept_73320 Nume_18892 
+Rel_58749 Nume_38724 Nume_00364 Rel_58749 Nume_96369 Nume_75159 
+
+Serv_98276
+Concept_41583 Nume_67138 Concept_41583 Nume_99714 Concept_73320 Nume_04470 Concept_41583 Nume_87058 Concept_73320 Nume_29601 Concept_73320 Nume_31357 Concept_41583 Nume_74957 Concept_41583 Nume_98231 
+Concept_73320 Nume_24733 Concept_41583 Nume_20891 Concept_73320 Nume_27373 Concept_73320 Nume_89346 Concept_73320 Nume_09737 Concept_41583 Nume_88218 
+Rel_58749 Nume_74957 Nume_09737 Rel_58749 Nume_67138 Nume_29601 
+
+Serv_69170
+Concept_41583 Nume_20485 Concept_73320 Nume_10112 Concept_73320 Nume_34480 Concept_41583 Nume_27221 Concept_41583 Nume_25228 Concept_73320 Nume_93070 Concept_41583 Nume_90056 Concept_41583 Nume_28589 
+Concept_41583 Nume_62420 Concept_73320 Nume_17426 Concept_41583 Nume_67459 Concept_73320 Nume_29349 Concept_41583 Nume_98267 Concept_73320 Nume_49267 
+Rel_58749 Nume_90056 Nume_29349 Rel_58749 Nume_20485 Nume_34480 Rel_58749 Nume_90056 Nume_93070 
+
+Serv_55961
+Concept_41583 Nume_19438 Concept_73320 Nume_46417 Concept_41583 Nume_44529 Concept_73320 Nume_31262 Concept_73320 Nume_69321 Concept_73320 Nume_90250 Concept_41583 Nume_20644 Concept_73320 Nume_79311 
+Concept_41583 Nume_84039 Concept_73320 Nume_84851 Concept_73320 Nume_76426 Concept_41583 Nume_28791 Concept_73320 Nume_50545 Concept_73320 Nume_26788 
+Rel_58749 Nume_20644 Nume_46417 
+
+Serv_69667
+Concept_73320 Nume_03973 Concept_73320 Nume_56517 Concept_41583 Nume_19302 Concept_41583 Nume_70834 Concept_73320 Nume_71822 Concept_73320 Nume_97935 Concept_73320 Nume_72530 Concept_41583 Nume_52677 
+Concept_41583 Nume_22913 Concept_41583 Nume_92552 Concept_41583 Nume_79131 Concept_73320 Nume_41743 Concept_41583 Nume_43518 Concept_41583 Nume_69114 
+Rel_58749 Nume_70834 Nume_03973 
+
+Serv_62210
+Concept_41583 Nume_32271 Concept_41583 Nume_03596 Concept_41583 Nume_37145 Concept_73320 Nume_83171 Concept_73320 Nume_94651 Concept_73320 Nume_15303 Concept_73320 Nume_33124 Concept_41583 Nume_05095 
+Concept_41583 Nume_01640 Concept_73320 Nume_16435 Concept_73320 Nume_41829 Concept_41583 Nume_16502 Concept_41583 Nume_37673 Concept_73320 Nume_60839 
+Rel_58749 Nume_32271 Nume_15303 
+
+Serv_62033
+Concept_73320 Nume_09779 Concept_73320 Nume_09458 Concept_41583 Nume_10106 Concept_41583 Nume_81485 Concept_41583 Nume_14841 Concept_41583 Nume_57195 Concept_73320 Nume_27675 Concept_41583 Nume_23404 
+Concept_73320 Nume_47284 Concept_73320 Nume_88142 Concept_41583 Nume_79542 Concept_41583 Nume_01888 Concept_73320 Nume_96917 Concept_73320 Nume_12898 
+Rel_58749 Nume_81485 Nume_09458 Rel_58749 Nume_10106 Nume_09779 Rel_58749 Nume_57195 Nume_88142 
+

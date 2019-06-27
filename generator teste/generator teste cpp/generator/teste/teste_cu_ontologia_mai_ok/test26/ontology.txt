@@ -1,0 +1,116 @@
+11 81 5
+
+Concept_028 Concept_028
+Concept_102 Concept_028
+Concept_125 Concept_102
+Concept_148 Concept_028
+Concept_258 Concept_028
+Concept_449 Concept_028
+Concept_467 Concept_125
+Concept_536 Concept_148
+Concept_662 Concept_258
+Concept_761 Concept_449
+Concept_839 Concept_761
+
+Rel_090
+Rel_064
+Rel_508
+Rel_929
+Rel_050
+Rel_586
+Rel_604
+Rel_223
+Rel_441
+Rel_613
+Rel_867
+Rel_778
+Rel_995
+Rel_418
+Rel_402
+Rel_804
+Rel_335
+Rel_739
+Rel_011
+Rel_570
+Rel_789
+Rel_047
+Rel_084
+Rel_225
+Rel_881
+Rel_810
+Rel_832
+Rel_142
+Rel_769
+Rel_694
+Rel_392
+Rel_563
+Rel_577
+Rel_853
+Rel_126
+Rel_827
+Rel_663
+Rel_232
+Rel_296
+Rel_329
+Rel_185
+Rel_275
+Rel_659
+Rel_450
+Rel_462
+Rel_386
+Rel_528
+Rel_240
+Rel_178
+Rel_628
+Rel_150
+Rel_799
+Rel_394
+Rel_474
+Rel_600
+Rel_093
+Rel_775
+Rel_609
+Rel_152
+Rel_939
+Rel_424
+Rel_843
+Rel_025
+Rel_978
+Rel_233
+Rel_887
+Rel_168
+Rel_918
+Rel_029
+Rel_638
+Rel_603
+Rel_972
+Rel_140
+Rel_390
+Rel_057
+Rel_132
+Rel_946
+Rel_089
+Rel_650
+Rel_366
+Rel_951
+
+Reg_511 X Y Z
+Rel_918 X Y Rel_887 Y Z
+Rel_775 X Z
+
+Reg_139 X Y Z
+Rel_775 X Y Rel_887 Y Z
+Rel_775 X Z
+
+Reg_213 X Y Z
+Rel_972 X Y Rel_650 Y Z
+Rel_978 X Z
+
+Reg_803 X Y Z
+Rel_650 X Y Rel_650 Y Z
+Rel_366 X Z
+
+Reg_263 X Y Z
+Rel_366 X Y Rel_650 Y Z
+Rel_650 X Z
+

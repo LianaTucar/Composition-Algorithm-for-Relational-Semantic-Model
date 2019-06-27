@@ -1,0 +1,19 @@
+4 3 2
+
+Person Person
+City City
+University University
+Ticket Ticket
+
+isLocatedIn
+hasDestination
+isEmployeeOf
+
+locatedAtWorkRule X Y Z
+isEmployeeOf X Y isLocatedIn Y Z
+isLocatedIn X Z
+
+destinationGenRule X Y Z
+hasDestination X Y isLocatedIn Y Z
+hasDestination X Z
+

@@ -1,0 +1,31 @@
+6
+Serv_92
+Concept_52 Nume_24 Concept_52 Nume_78 Concept_78 Nume_52 
+Concept_28 Nume_91 Concept_81 Nume_37 Concept_78 Nume_79 Concept_81 Nume_95 
+
+
+Serv_90
+Concept_88 Nume_42 Concept_88 Nume_80 Concept_28 Nume_94 
+Concept_88 Nume_36 Concept_34 Nume_38 Concept_81 Nume_26 Concept_88 Nume_32 
+
+
+Serv_03
+Concept_28 Nume_03 Concept_78 Nume_55 Concept_12 Nume_27 
+Concept_52 Nume_04 Concept_58 Nume_99 Concept_98 Nume_54 Concept_81 Nume_96 
+
+
+Serv_45
+Concept_88 Nume_43 Concept_28 Nume_13 Concept_12 Nume_58 
+Concept_89 Nume_25 Concept_27 Nume_34 Concept_88 Nume_60 Concept_98 Nume_87 
+Rel_47 Nume_43 Nume_13 
+
+Serv_47
+Concept_81 Nume_12 Concept_28 Nume_18 Concept_28 Nume_16 
+Concept_28 Nume_73 Concept_27 Nume_15 Concept_98 Nume_99 Concept_12 Nume_07 
+
+
+Serv_04
+Concept_28 Nume_86 Concept_81 Nume_07 Concept_88 Nume_89 
+Concept_98 Nume_80 Concept_78 Nume_08 Concept_20 Nume_53 Concept_81 Nume_59 
+
+

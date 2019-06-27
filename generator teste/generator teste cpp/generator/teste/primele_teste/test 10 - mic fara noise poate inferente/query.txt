@@ -1,0 +1,10 @@
+nume_rand
+Concept_2X2XZ Param_6Z8PM Concept_8G93N Param_JRP3B 
+Concept_02LSB Param_MIXFG Concept_2X2XZ Param_NIVAI Concept_8G93N Param_3IZF9 Concept_TWLV7 Param_AQ2T4 
+Rel_EZEMV Param_6Z8PM Param_6Z8PM
+Rel_OXQWD Param_6Z8PM Param_6Z8PM
+Rel_32LST Param_NIVAI Param_AQ2T4
+Rel_SYTM2 Param_NIVAI Param_AQ2T4
+Rel_U3A6M Param_AQ2T4 Param_AQ2T4
+Rel_C6XE0 Param_AQ2T4 Param_AQ2T4
+Rel_W1TA8 Param_AQ2T4 Param_AQ2T4

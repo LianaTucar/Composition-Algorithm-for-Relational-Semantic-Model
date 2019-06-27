@@ -1,0 +1,11 @@
+2
+Serv_U2ZS8
+Concept_2X2XZ Nume_4VOFU Concept_2X2XZ Nume_WD8TA Concept_2X2XZ Nume_R6GJA 
+Concept_2X2XZ Nume_M74A9 Concept_2X2XZ Nume_ESHCI Concept_2X2XZ Nume_2JHA4 Concept_TWLV7 Nume_5ICBL Concept_2X2XZ Nume_XVP8P Concept_2X2XZ Nume_9Z16D Concept_TWLV7 Nume_2UJM8 Concept_02LSB Nume_8TZVS Concept_02LSB Nume_5A3BB Concept_2X2XZ Nume_3BRXS 
+
+
+Serv_2QLWR
+Concept_2X2XZ Nume_HOAS2 Concept_2X2XZ Nume_6WJY9 Concept_2X2XZ Nume_XO4ZG 
+Concept_TWLV7 Nume_U0978 Concept_2X2XZ Nume_QJ2ZC Concept_2X2XZ Nume_C1R6I Concept_TWLV7 Nume_3TROZ Concept_2X2XZ Nume_CJV88 Concept_TWLV7 Nume_TQ3YZ Concept_2X2XZ Nume_ZOEV6 Concept_TWLV7 Nume_3UYYV Concept_2X2XZ Nume_2DKLQ Concept_2X2XZ Nume_E3CSL 
+Rel_SYTM2 Nume_HOAS2 Nume_3UYYV 
+

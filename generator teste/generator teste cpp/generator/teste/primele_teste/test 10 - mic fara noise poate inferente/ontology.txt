@@ -1,0 +1,26 @@
+3 7 3
+
+Concept_02LSB Concept_02LSB
+Concept_02LSB Concept_2X2XZ
+Concept_2X2XZ Concept_TWLV7
+
+Rel_EZEMV
+Rel_OXQWD
+Rel_32LST
+Rel_SYTM2
+Rel_U3A6M
+Rel_C6XE0
+Rel_W1TA8
+
+Reg_CRT4W X Y Z
+Rel_U3A6M X Y Rel_C6XE0 Y Z
+Rel_C6XE0 X Z
+
+Reg_EYHT1 X Y Z
+Rel_C6XE0 X Y Rel_C6XE0 Y Z
+Rel_U3A6M X Z
+
+Reg_M014E X Y Z
+Rel_SYTM2 X Y Rel_U3A6M Y Z
+Rel_32LST X Z
+

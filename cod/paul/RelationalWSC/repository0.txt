@@ -1,0 +1,16 @@
+3
+getTheGratestPerson
+person X person Y
+person Z
+greater X Y
+
+getBestFriend
+person X
+person hisBestFriend
+
+
+getOneStudent
+
+student randomStudent
+
+

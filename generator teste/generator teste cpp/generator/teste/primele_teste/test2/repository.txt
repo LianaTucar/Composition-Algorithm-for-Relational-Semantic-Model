@@ -1,0 +1,21 @@
+4
+Serv_AACQB
+Nume_9HP2E Concept_RHM9F Nume_3Y9GV Concept_RHM9F 
+Nume_JIWKQ Concept_KZQJY Nume_2J5O3 Concept_YE949 Nume_OR011 Concept_KZQJY Nume_QE775 Concept_BLOZK 
+Rel_4MH0N Nume_9HP2E Nume_JIWKQ 
+
+Serv_DDEOI
+Nume_TZ5OR Concept_RHM9F Nume_5ZB2N Concept_RHM9F 
+Nume_0J12A Concept_YE949 Nume_U4TOR Concept_YE949 Nume_VQKCH Concept_RHM9F Nume_T67A8 Concept_BLOZK 
+Rel_FM7O1 Nume_TZ5OR Nume_U4TOR 
+
+Serv_CNZV9
+Nume_NMDLJ Concept_RHM9F Nume_HKE8M Concept_YE949 
+Nume_FRMYH Concept_YE949 Nume_ESO82 Concept_SYLD5 Nume_1XJ8L Concept_RHM9F Nume_YFXPI Concept_0GAAY 
+Rel_GXC9R Nume_NMDLJ Nume_FRMYH 
+
+Serv_HXCUN
+Nume_LRW7E Concept_19O3P Nume_43WQ7 Concept_19O3P 
+Nume_4NASG Concept_9QV0C Nume_I05GQ Concept_RHM9F Nume_1EX6X Concept_SYLD5 Nume_2FYHP Concept_YE949 
+
+

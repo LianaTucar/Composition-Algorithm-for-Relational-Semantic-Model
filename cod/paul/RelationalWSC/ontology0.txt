@@ -1,0 +1,18 @@
+3 3 2
+
+person person
+student person
+employee person
+
+greater transitive
+equals symetric reflexive
+smaller transitive
+
+obvious X Y Z
+greater X Y equals Y Z
+greater X Z
+
+inverse X Y
+greater X Y
+smaller Y X
+

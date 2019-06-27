@@ -1,0 +1,24 @@
+3 9 2
+
+Concept_0568843 Concept_0568843
+Concept_4855607 Concept_0568843
+Concept_6944300 Concept_0568843
+
+Rel_8208816
+Rel_9094290
+Rel_2330005
+Rel_6284061
+Rel_speciala
+Rel_8995036
+Rel_1952325
+Rel_8302381
+Rel_6194011
+
+Reg1 X Y
+Rel_8302381 X Y
+Rel_speciala X Y
+
+Reg2 X Y
+Rel_1952325 X Y
+Rel_speciala X Y
+

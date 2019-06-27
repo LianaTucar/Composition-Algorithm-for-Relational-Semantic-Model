@@ -1,0 +1,378 @@
+#concepts 12, #relations 35, #rules 3.
+
+Concept_45 -> Concept_13
+Concept_13 (root)
+Concept_58 -> Concept_49
+Concept_37 -> Concept_13
+Concept_49 -> Concept_45
+Concept_28 -> Concept_13
+Concept_60 -> Concept_37
+Concept_71 -> Concept_45
+Concept_93 -> Concept_28
+Concept_74 -> Concept_49
+Concept_96 -> Concept_93
+Concept_86 -> Concept_74
+
+Rel_17: 
+Rel_59: 
+Rel_14: 
+Rel_58: 
+Rel_35: 
+Rel_79: 
+Rel_13: 
+Rel_12: 
+Rel_99: 
+Rel_55: 
+Rel_32: 
+Rel_53: 
+Rel_30: 
+Rel_74: 
+Rel_73: 
+Rel_71: 
+Rel_81: 
+Rel_80: 
+Rel_09: 
+Rel_08: 
+Rel_28: 
+Rel_05: 
+Rel_69: 
+Rel_03: 
+Rel_46: 
+Rel_23: 
+Rel_45: 
+Rel_66: 
+Rel_43: 
+Rel_65: 
+Rel_42: 
+Rel_83: 
+Rel_61: 
+Rel_70: 
+Rel_92: 
+
+Reg_24 X  premises: ( Rel_23(X, Y)  )  conclusions: ( Rel_79(X, Z)  ) Y  premises: ( Rel_23(Y, Z)  ) Z 
+Rel_23(X, Y) Rel_23(Y, Z) 
+Rel_79(X, Z) 
+
+Reg_77 X  premises: ( Rel_08(X, Y)  )  conclusions: ( Rel_83(X, Z)  ) Y  premises: ( Rel_59(Y, Z)  ) Z 
+Rel_08(X, Y) Rel_59(Y, Z) 
+Rel_83(X, Z) 
+
+Reg_39 X  premises: ( Rel_79(X, Y)  )  conclusions: ( Rel_79(X, Z)  ) Y  premises: ( Rel_79(Y, Z)  ) Z 
+Rel_79(X, Y) Rel_79(Y, Z) 
+Rel_79(X, Z) 
+
+#services (12) are :
+
+Serv_37
+input = Nume_22 : Concept_93 , Nume_05 : Concept_13 ( Rel_53(Nume_05, Nume_22)  ) , Nume_15 : Concept_45 , 
+output = Nume_06 : Concept_45, Nume_53 : Concept_60, Nume_27 : Concept_37, Nume_85 : Concept_86, Nume_60 : Concept_45, Nume_44 : Concept_60, Nume_28 : Concept_37, Nume_43 : Concept_71, Nume_14 : Concept_58, Nume_69 : Concept_74, 
+relations = Rel_53(Nume_05, Nume_22), 
+
+Serv_21
+input = Nume_25 : Concept_71 , Nume_17 : Concept_49 , Nume_99 : Concept_60 , 
+output = Nume_35 : Concept_60, Nume_01 : Concept_71, Nume_43 : Concept_49, Nume_21 : Concept_93, Nume_26 : Concept_93, Nume_92 : Concept_86, Nume_72 : Concept_60, Nume_51 : Concept_13, Nume_34 : Concept_58, Nume_04 : Concept_93, 
+relations = 
+
+Serv_66
+input = Nume_95 : Concept_13 , Nume_45 : Concept_45 ( Rel_08(Nume_45, Nume_84)  ) , Nume_38 : Concept_71 , 
+output = Nume_58 : Concept_60, Nume_52 : Concept_45, Nume_73 : Concept_74, Nume_69 : Concept_74, Nume_80 : Concept_86, Nume_20 : Concept_45, Nume_26 : Concept_71, Nume_29 : Concept_60, Nume_84 : Concept_71, Nume_30 : Concept_58, 
+relations = Rel_08(Nume_45, Nume_84), 
+
+Serv_12
+input = Nume_08 : Concept_45 ( Rel_28(Nume_08, Nume_22)  ) , Nume_21 : Concept_13 , Nume_58 : Concept_13 , 
+output = Nume_22 : Concept_74, Nume_03 : Concept_45, Nume_44 : Concept_74, Nume_48 : Concept_71, Nume_31 : Concept_74, Nume_88 : Concept_60, Nume_53 : Concept_71, Nume_91 : Concept_60, Nume_05 : Concept_74, Nume_70 : Concept_74, 
+relations = Rel_28(Nume_08, Nume_22), 
+
+Serv_01
+input = Nume_82 : Concept_13 , Nume_76 : Concept_13 , Nume_54 : Concept_13 , 
+output = Nume_03 : Concept_13, Nume_62 : Concept_13, Nume_15 : Concept_60, Nume_30 : Concept_74, Nume_98 : Concept_13, Nume_39 : Concept_45, Nume_20 : Concept_45, Nume_37 : Concept_60, Nume_49 : Concept_60, Nume_95 : Concept_74, 
+relations = 
+
+Serv_35
+input = Nume_34 : Concept_93 , Nume_83 : Concept_60 , Nume_73 : Concept_71 , 
+output = Nume_33 : Concept_74, Nume_19 : Concept_13, Nume_85 : Concept_93, Nume_44 : Concept_58, Nume_26 : Concept_71, Nume_60 : Concept_60, Nume_20 : Concept_60, Nume_82 : Concept_86, Nume_76 : Concept_13, Nume_43 : Concept_37, 
+relations = 
+
+Serv_46
+input = Nume_58 : Concept_86 , Nume_16 : Concept_93 , Nume_00 : Concept_37 , 
+output = Nume_74 : Concept_28, Nume_34 : Concept_58, Nume_37 : Concept_60, Nume_77 : Concept_28, Nume_49 : Concept_37, Nume_29 : Concept_60, Nume_23 : Concept_58, Nume_90 : Concept_13, Nume_99 : Concept_45, Nume_24 : Concept_74, 
+relations = 
+
+Serv_74
+input = Nume_32 : Concept_60 , Nume_24 : Concept_74 , Nume_00 : Concept_13 , 
+output = Nume_39 : Concept_45, Nume_74 : Concept_86, Nume_99 : Concept_86, Nume_51 : Concept_74, Nume_44 : Concept_60, Nume_79 : Concept_60, Nume_69 : Concept_13, Nume_29 : Concept_74, Nume_86 : Concept_93, Nume_11 : Concept_93, 
+relations = 
+
+Serv_85
+input = Nume_38 : Concept_45 , Nume_72 : Concept_45 , Nume_19 : Concept_86 , 
+output = Nume_84 : Concept_13, Nume_12 : Concept_74, Nume_04 : Concept_96, Nume_21 : Concept_86, Nume_59 : Concept_86, Nume_76 : Concept_74, Nume_85 : Concept_37, Nume_25 : Concept_93, Nume_96 : Concept_93, Nume_39 : Concept_49, 
+relations = 
+
+Serv_31
+input = Nume_56 : Concept_13 ( Rel_09(Nume_56, Nume_27)  ) , Nume_45 : Concept_45 ( Rel_28(Nume_45, Nume_54)  ) , Nume_32 : Concept_45 , 
+output = Nume_76 : Concept_74, Nume_28 : Concept_13, Nume_74 : Concept_13, Nume_39 : Concept_13, Nume_12 : Concept_13, Nume_06 : Concept_74, Nume_27 : Concept_71, Nume_54 : Concept_74, Nume_19 : Concept_45, Nume_46 : Concept_60, 
+relations = Rel_09(Nume_56, Nume_27), Rel_28(Nume_45, Nume_54), 
+
+Serv_18
+input = Nume_57 : Concept_74 , Nume_79 : Concept_74 , Nume_13 : Concept_45 , 
+output = Nume_04 : Concept_86, Nume_00 : Concept_45, Nume_09 : Concept_60, Nume_22 : Concept_13, Nume_48 : Concept_45, Nume_33 : Concept_13, Nume_40 : Concept_86, Nume_29 : Concept_13, Nume_84 : Concept_74, Nume_54 : Concept_45, 
+relations = 
+
+Serv_81
+input = Nume_10 : Concept_45 , Nume_58 : Concept_71 ( Rel_59(Nume_58, Nume_06)  ) , Nume_01 : Concept_71 , 
+output = Nume_07 : Concept_13, Nume_39 : Concept_93, Nume_75 : Concept_96, Nume_79 : Concept_86, Nume_67 : Concept_96, Nume_68 : Concept_13, Nume_31 : Concept_86, Nume_98 : Concept_71, Nume_06 : Concept_74, Nume_64 : Concept_13, 
+relations = Rel_59(Nume_58, Nume_06), 
+
+nume_rand
+input = Param_12 : Concept_28 , 
+output = Param_96 : Concept_13, Param_99 : Concept_45, Param_72 : Concept_53, 
+relations = Rel_35(Param_96, Param_96), Rel_46(Param_96, Param_99), 
+
+-------------------------------------------------------------- Input parsing done.
+Knowledge after learning user input and running rules:
+Object by name:
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   nume_rand_0_Param_99 : Concept_45 with no relations.
+-------------------------------------------------------------- Start building composition.
+Called service Serv_12 with params:Nume_08(nume_rand_0_Param_99) Nume_21(nume_rand_0_Param_99) Nume_58(nume_rand_0_Param_96) , knowledge after is:
+Object by name:
+   Serv_12_1_Nume_48 : Concept_71 with no relations.
+   Serv_12_1_Nume_03 : Concept_45 with no relations.
+   Serv_12_1_Nume_05 : Concept_74 with no relations.
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   nume_rand_0_Param_99 : Concept_45 with relations: Rel_28(nume_rand_0_Param_99, Serv_12_1_Nume_22) 
+   Serv_12_1_Nume_91 : Concept_60 with no relations.
+   Serv_12_1_Nume_70 : Concept_74 with no relations.
+   Serv_12_1_Nume_31 : Concept_74 with no relations.
+   Serv_12_1_Nume_53 : Concept_71 with no relations.
+   Serv_12_1_Nume_22 : Concept_74 with no relations.
+   Serv_12_1_Nume_44 : Concept_74 with no relations.
+   Serv_12_1_Nume_88 : Concept_60 with no relations.
+Called service Serv_01 with params:Nume_82(Serv_12_1_Nume_91) Nume_76(nume_rand_0_Param_96) Nume_54(Serv_12_1_Nume_22) , knowledge after is:
+Object by name:
+   Serv_12_1_Nume_48 : Concept_71 with no relations.
+   Serv_12_1_Nume_03 : Concept_45 with no relations.
+   Serv_12_1_Nume_05 : Concept_74 with no relations.
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   Serv_01_1_Nume_49 : Concept_60 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   Serv_01_1_Nume_39 : Concept_45 with no relations.
+   nume_rand_0_Param_99 : Concept_45 with relations: Rel_28(nume_rand_0_Param_99, Serv_12_1_Nume_22) 
+   Serv_01_1_Nume_03 : Concept_13 with no relations.
+   Serv_01_1_Nume_15 : Concept_60 with no relations.
+   Serv_01_1_Nume_37 : Concept_60 with no relations.
+   Serv_01_1_Nume_30 : Concept_74 with no relations.
+   Serv_01_1_Nume_20 : Concept_45 with no relations.
+   Serv_01_1_Nume_62 : Concept_13 with no relations.
+   Serv_01_1_Nume_95 : Concept_74 with no relations.
+   Serv_12_1_Nume_91 : Concept_60 with no relations.
+   Serv_01_1_Nume_98 : Concept_13 with no relations.
+   Serv_12_1_Nume_70 : Concept_74 with no relations.
+   Serv_12_1_Nume_31 : Concept_74 with no relations.
+   Serv_12_1_Nume_53 : Concept_71 with no relations.
+   Serv_12_1_Nume_22 : Concept_74 with no relations.
+   Serv_12_1_Nume_44 : Concept_74 with no relations.
+   Serv_12_1_Nume_88 : Concept_60 with no relations.
+Called service Serv_74 with params:Nume_32(Serv_01_1_Nume_49) Nume_24(Serv_12_1_Nume_22) Nume_00(Serv_12_1_Nume_88) , knowledge after is:
+Object by name:
+   Serv_12_1_Nume_48 : Concept_71 with no relations.
+   Serv_12_1_Nume_03 : Concept_45 with no relations.
+   Serv_12_1_Nume_05 : Concept_74 with no relations.
+   Serv_74_1_Nume_86 : Concept_93 with no relations.
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   Serv_01_1_Nume_49 : Concept_60 with no relations.
+   Serv_74_1_Nume_69 : Concept_13 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   nume_rand_0_Param_99 : Concept_45 with relations: Rel_28(nume_rand_0_Param_99, Serv_12_1_Nume_22) 
+   Serv_01_1_Nume_03 : Concept_13 with no relations.
+   Serv_74_1_Nume_44 : Concept_60 with no relations.
+   Serv_01_1_Nume_30 : Concept_74 with no relations.
+   Serv_01_1_Nume_95 : Concept_74 with no relations.
+   Serv_12_1_Nume_91 : Concept_60 with no relations.
+   Serv_01_1_Nume_98 : Concept_13 with no relations.
+   Serv_12_1_Nume_70 : Concept_74 with no relations.
+   Serv_12_1_Nume_31 : Concept_74 with no relations.
+   Serv_12_1_Nume_53 : Concept_71 with no relations.
+   Serv_74_1_Nume_51 : Concept_74 with no relations.
+   Serv_74_1_Nume_74 : Concept_86 with no relations.
+   Serv_01_1_Nume_39 : Concept_45 with no relations.
+   Serv_01_1_Nume_15 : Concept_60 with no relations.
+   Serv_01_1_Nume_37 : Concept_60 with no relations.
+   Serv_74_1_Nume_39 : Concept_45 with no relations.
+   Serv_74_1_Nume_99 : Concept_86 with no relations.
+   Serv_74_1_Nume_11 : Concept_93 with no relations.
+   Serv_74_1_Nume_79 : Concept_60 with no relations.
+   Serv_01_1_Nume_20 : Concept_45 with no relations.
+   Serv_01_1_Nume_62 : Concept_13 with no relations.
+   Serv_74_1_Nume_29 : Concept_74 with no relations.
+   Serv_12_1_Nume_22 : Concept_74 with no relations.
+   Serv_12_1_Nume_44 : Concept_74 with no relations.
+   Serv_12_1_Nume_88 : Concept_60 with no relations.
+Called service Serv_85 with params:Nume_38(Serv_74_1_Nume_39) Nume_72(Serv_12_1_Nume_44) Nume_19(Serv_74_1_Nume_74) , knowledge after is:
+Object by name:
+   Serv_12_1_Nume_48 : Concept_71 with no relations.
+   Serv_12_1_Nume_03 : Concept_45 with no relations.
+   Serv_12_1_Nume_05 : Concept_74 with no relations.
+   Serv_74_1_Nume_86 : Concept_93 with no relations.
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   Serv_01_1_Nume_49 : Concept_60 with no relations.
+   Serv_74_1_Nume_69 : Concept_13 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   nume_rand_0_Param_99 : Concept_45 with relations: Rel_28(nume_rand_0_Param_99, Serv_12_1_Nume_22) 
+   Serv_01_1_Nume_03 : Concept_13 with no relations.
+   Serv_74_1_Nume_44 : Concept_60 with no relations.
+   Serv_01_1_Nume_30 : Concept_74 with no relations.
+   Serv_85_1_Nume_21 : Concept_86 with no relations.
+   Serv_01_1_Nume_95 : Concept_74 with no relations.
+   Serv_12_1_Nume_91 : Concept_60 with no relations.
+   Serv_01_1_Nume_98 : Concept_13 with no relations.
+   Serv_85_1_Nume_25 : Concept_93 with no relations.
+   Serv_12_1_Nume_70 : Concept_74 with no relations.
+   Serv_85_1_Nume_04 : Concept_96 with no relations.
+   Serv_12_1_Nume_31 : Concept_74 with no relations.
+   Serv_12_1_Nume_53 : Concept_71 with no relations.
+   Serv_85_1_Nume_85 : Concept_37 with no relations.
+   Serv_85_1_Nume_84 : Concept_13 with no relations.
+   Serv_74_1_Nume_51 : Concept_74 with no relations.
+   Serv_74_1_Nume_74 : Concept_86 with no relations.
+   Serv_01_1_Nume_39 : Concept_45 with no relations.
+   Serv_01_1_Nume_15 : Concept_60 with no relations.
+   Serv_01_1_Nume_37 : Concept_60 with no relations.
+   Serv_74_1_Nume_39 : Concept_45 with no relations.
+   Serv_74_1_Nume_99 : Concept_86 with no relations.
+   Serv_74_1_Nume_11 : Concept_93 with no relations.
+   Serv_74_1_Nume_79 : Concept_60 with no relations.
+   Serv_85_1_Nume_12 : Concept_74 with no relations.
+   Serv_01_1_Nume_20 : Concept_45 with no relations.
+   Serv_85_1_Nume_76 : Concept_74 with no relations.
+   Serv_01_1_Nume_62 : Concept_13 with no relations.
+   Serv_74_1_Nume_29 : Concept_74 with no relations.
+   Serv_85_1_Nume_39 : Concept_49 with no relations.
+   Serv_85_1_Nume_59 : Concept_86 with no relations.
+   Serv_12_1_Nume_22 : Concept_74 with no relations.
+   Serv_12_1_Nume_44 : Concept_74 with no relations.
+   Serv_12_1_Nume_88 : Concept_60 with no relations.
+   Serv_85_1_Nume_96 : Concept_93 with no relations.
+Called service Serv_31 with params:Nume_56(nume_rand_0_Param_99) Nume_45(Serv_01_1_Nume_39) Nume_32(Serv_12_1_Nume_70) , knowledge after is:
+Object by name:
+   Serv_12_1_Nume_48 : Concept_71 with no relations.
+   Serv_12_1_Nume_03 : Concept_45 with no relations.
+   Serv_12_1_Nume_05 : Concept_74 with no relations.
+   Serv_31_1_Nume_46 : Concept_60 with no relations.
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   Serv_01_1_Nume_49 : Concept_60 with no relations.
+   Serv_74_1_Nume_69 : Concept_13 with no relations.
+   Serv_01_1_Nume_03 : Concept_13 with no relations.
+   Serv_85_1_Nume_21 : Concept_86 with no relations.
+   Serv_01_1_Nume_95 : Concept_74 with no relations.
+   Serv_12_1_Nume_91 : Concept_60 with no relations.
+   Serv_01_1_Nume_98 : Concept_13 with no relations.
+   Serv_85_1_Nume_25 : Concept_93 with no relations.
+   Serv_12_1_Nume_53 : Concept_71 with no relations.
+   Serv_31_1_Nume_39 : Concept_13 with no relations.
+   Serv_74_1_Nume_51 : Concept_74 with no relations.
+   Serv_31_1_Nume_76 : Concept_74 with no relations.
+   Serv_31_1_Nume_74 : Concept_13 with no relations.
+   Serv_01_1_Nume_39 : Concept_45 with relations: Rel_28(Serv_01_1_Nume_39, Serv_31_1_Nume_54) 
+   Serv_01_1_Nume_37 : Concept_60 with no relations.
+   Serv_74_1_Nume_99 : Concept_86 with no relations.
+   Serv_74_1_Nume_11 : Concept_93 with no relations.
+   Serv_85_1_Nume_76 : Concept_74 with no relations.
+   Serv_85_1_Nume_39 : Concept_49 with no relations.
+   Serv_12_1_Nume_22 : Concept_74 with no relations.
+   Serv_31_1_Nume_28 : Concept_13 with no relations.
+   Serv_31_1_Nume_27 : Concept_71 with no relations.
+   Serv_74_1_Nume_86 : Concept_93 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   nume_rand_0_Param_99 : Concept_45 with relations: Rel_09(nume_rand_0_Param_99, Serv_31_1_Nume_27) Rel_28(nume_rand_0_Param_99, Serv_12_1_Nume_22) 
+   Serv_74_1_Nume_44 : Concept_60 with no relations.
+   Serv_01_1_Nume_30 : Concept_74 with no relations.
+   Serv_12_1_Nume_70 : Concept_74 with no relations.
+   Serv_85_1_Nume_04 : Concept_96 with no relations.
+   Serv_12_1_Nume_31 : Concept_74 with no relations.
+   Serv_85_1_Nume_85 : Concept_37 with no relations.
+   Serv_31_1_Nume_19 : Concept_45 with no relations.
+   Serv_85_1_Nume_84 : Concept_13 with no relations.
+   Serv_74_1_Nume_74 : Concept_86 with no relations.
+   Serv_31_1_Nume_12 : Concept_13 with no relations.
+   Serv_31_1_Nume_54 : Concept_74 with no relations.
+   Serv_01_1_Nume_15 : Concept_60 with no relations.
+   Serv_74_1_Nume_39 : Concept_45 with no relations.
+   Serv_74_1_Nume_79 : Concept_60 with no relations.
+   Serv_85_1_Nume_12 : Concept_74 with no relations.
+   Serv_01_1_Nume_20 : Concept_45 with no relations.
+   Serv_01_1_Nume_62 : Concept_13 with no relations.
+   Serv_74_1_Nume_29 : Concept_74 with no relations.
+   Serv_85_1_Nume_59 : Concept_86 with no relations.
+   Serv_12_1_Nume_44 : Concept_74 with no relations.
+   Serv_12_1_Nume_88 : Concept_60 with no relations.
+   Serv_85_1_Nume_96 : Concept_93 with no relations.
+   Serv_31_1_Nume_06 : Concept_74 with no relations.
+Called service Serv_81 with params:Nume_10(nume_rand_0_Param_99) Nume_58(Serv_12_1_Nume_53) Nume_01(Serv_12_1_Nume_53) , knowledge after is:
+Object by name:
+   Serv_12_1_Nume_48 : Concept_71 with no relations.
+   Serv_12_1_Nume_03 : Concept_45 with no relations.
+   Serv_12_1_Nume_05 : Concept_74 with no relations.
+   Serv_31_1_Nume_46 : Concept_60 with no relations.
+   Serv_81_1_Nume_98 : Concept_71 with no relations.
+   nume_rand_0_Param_72 : Concept_53 with no relations.
+   Serv_01_1_Nume_49 : Concept_60 with no relations.
+   Serv_74_1_Nume_69 : Concept_13 with no relations.
+   Serv_01_1_Nume_03 : Concept_13 with no relations.
+   Serv_85_1_Nume_21 : Concept_86 with no relations.
+   Serv_01_1_Nume_95 : Concept_74 with no relations.
+   Serv_12_1_Nume_91 : Concept_60 with no relations.
+   Serv_01_1_Nume_98 : Concept_13 with no relations.
+   Serv_85_1_Nume_25 : Concept_93 with no relations.
+   Serv_12_1_Nume_53 : Concept_71 with relations: Rel_59(Serv_12_1_Nume_53, Serv_81_1_Nume_06) 
+   Serv_31_1_Nume_39 : Concept_13 with no relations.
+   Serv_74_1_Nume_51 : Concept_74 with no relations.
+   Serv_31_1_Nume_76 : Concept_74 with no relations.
+   Serv_31_1_Nume_74 : Concept_13 with no relations.
+   Serv_01_1_Nume_39 : Concept_45 with relations: Rel_28(Serv_01_1_Nume_39, Serv_31_1_Nume_54) 
+   Serv_01_1_Nume_37 : Concept_60 with no relations.
+   Serv_81_1_Nume_07 : Concept_13 with no relations.
+   Serv_81_1_Nume_06 : Concept_74 with no relations.
+   Serv_74_1_Nume_99 : Concept_86 with no relations.
+   Serv_74_1_Nume_11 : Concept_93 with no relations.
+   Serv_85_1_Nume_76 : Concept_74 with no relations.
+   Serv_85_1_Nume_39 : Concept_49 with no relations.
+   Serv_12_1_Nume_22 : Concept_74 with no relations.
+   Serv_31_1_Nume_28 : Concept_13 with no relations.
+   Serv_31_1_Nume_27 : Concept_71 with no relations.
+   Serv_81_1_Nume_79 : Concept_86 with no relations.
+   Serv_74_1_Nume_86 : Concept_93 with no relations.
+   Serv_81_1_Nume_75 : Concept_96 with no relations.
+   Serv_81_1_Nume_31 : Concept_86 with no relations.
+   nume_rand_0_Param_96 : Concept_13 with relations: Rel_35(nume_rand_0_Param_96, nume_rand_0_Param_96) Rel_46(nume_rand_0_Param_96, nume_rand_0_Param_99) 
+   nume_rand_0_Param_99 : Concept_45 with relations: Rel_09(nume_rand_0_Param_99, Serv_31_1_Nume_27) Rel_28(nume_rand_0_Param_99, Serv_12_1_Nume_22) 
+   Serv_81_1_Nume_39 : Concept_93 with no relations.
+   Serv_74_1_Nume_44 : Concept_60 with no relations.
+   Serv_01_1_Nume_30 : Concept_74 with no relations.
+   Serv_12_1_Nume_70 : Concept_74 with no relations.
+   Serv_85_1_Nume_04 : Concept_96 with no relations.
+   Serv_12_1_Nume_31 : Concept_74 with no relations.
+   Serv_85_1_Nume_85 : Concept_37 with no relations.
+   Serv_31_1_Nume_19 : Concept_45 with no relations.
+   Serv_85_1_Nume_84 : Concept_13 with no relations.
+   Serv_81_1_Nume_68 : Concept_13 with no relations.
+   Serv_81_1_Nume_67 : Concept_96 with no relations.
+   Serv_74_1_Nume_74 : Concept_86 with no relations.
+   Serv_31_1_Nume_12 : Concept_13 with no relations.
+   Serv_81_1_Nume_64 : Concept_13 with no relations.
+   Serv_31_1_Nume_54 : Concept_74 with no relations.
+   Serv_01_1_Nume_15 : Concept_60 with no relations.
+   Serv_74_1_Nume_39 : Concept_45 with no relations.
+   Serv_74_1_Nume_79 : Concept_60 with no relations.
+   Serv_85_1_Nume_12 : Concept_74 with no relations.
+   Serv_01_1_Nume_20 : Concept_45 with no relations.
+   Serv_01_1_Nume_62 : Concept_13 with no relations.
+   Serv_74_1_Nume_29 : Concept_74 with no relations.
+   Serv_85_1_Nume_59 : Concept_86 with no relations.
+   Serv_12_1_Nume_44 : Concept_74 with no relations.
+   Serv_12_1_Nume_88 : Concept_60 with no relations.
+   Serv_85_1_Nume_96 : Concept_93 with no relations.
+   Serv_31_1_Nume_06 : Concept_74 with no relations.
+Solved user query with: Param_12(Serv_81_1_Nume_75) 

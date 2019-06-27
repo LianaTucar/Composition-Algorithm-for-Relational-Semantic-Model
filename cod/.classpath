@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="paul/RelationalWSC/src"/>
+	<classpathentry kind="src" path="paul/RelationalWSC/src before Lianas idea"/>
+	<classpathentry kind="lib" path="paul/RelationalWSC/dist/RelationalWSC.jar"/>
+	<classpathentry kind="output" path="paul/RelationalWSC/build/classes"/>
+</classpath>

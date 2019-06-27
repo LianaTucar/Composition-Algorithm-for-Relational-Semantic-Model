@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1560689229 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\main.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<unordered_map>
+	<map>
+	"afisare.cpp"
+
+1551276184 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\serviciu.cpp
+	<string>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<set>
+
+1551259486 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\utilitati.cpp
+	<string>
+	<vector>
+	<algorithm>
+	"constante.cpp"
+
+1551114309 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\consante.cpp
+
+1551114623 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\concept_manager.cpp
+	"serviciu.cpp"
+	"utilitati.cpp"
+	"constante.cpp"
+	<algorithm>
+
+1551276184 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\serviciu.cpp
+	<string>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<set>
+
+1551259486 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\utilitati.cpp
+	<string>
+	<vector>
+	<algorithm>
+	"constante.cpp"
+
+1551394440 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\constante.cpp
+	<stdio.h>
+
+1551114415 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\service_manager.cpp
+	"serviciu.cpp"
+	"constante.cpp"
+	"utilitati.cpp"
+	<algorithm>
+
+1551114623 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\concept_manager.cpp
+	"serviciu.cpp"
+	"utilitati.cpp"
+	"constante.cpp"
+	<algorithm>
+
+1551199396 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\managers.cpp
+	"utilitati.cpp"
+	"relatii.cpp"
+	<algorithm>
+	<utility>
+	<map>
+
+1551199396 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\managers.cpp
+	"utilitati.cpp"
+	"relatii.cpp"
+	<algorithm>
+	<utility>
+	<map>
+
+1551394440 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\constante.cpp
+	<stdio.h>
+
+1551116995 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\relatii.cpp
+	<string>
+	"serviciu.cpp"
+
+1551127733 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\relatii.cpp
+	<string>
+	"serviciu.cpp"
+
+1560689195 source:c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\afisare.cpp
+	"managers.cpp"
+	<stdio.h>
+
+1560690154 c:\_d\facultate\wsc\chestiile noastre\articol cu relatii\generator teste cpp\generator\afisare.cpp
+	"managers.cpp"
+	<stdio.h>
+
+1560850318 source:c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\afisare.cpp
+	"managers.cpp"
+	<stdio.h>
+
+1551199396 c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\managers.cpp
+	"utilitati.cpp"
+	"relatii.cpp"
+	<algorithm>
+	<utility>
+	<map>
+
+1551259486 c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\utilitati.cpp
+	<string>
+	<vector>
+	<algorithm>
+	"constante.cpp"
+
+1551394440 c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\constante.cpp
+	<stdio.h>
+
+1551127733 c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\relatii.cpp
+	<string>
+	"serviciu.cpp"
+
+1551276184 c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\serviciu.cpp
+	<string>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<set>
+
+1551394440 source:c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\constante.cpp
+	<stdio.h>
+
+1560689229 source:c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\main.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<unordered_map>
+	<map>
+	"afisare.cpp"
+
+1561138132 c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\afisare.cpp
+	"managers.cpp"
+	<stdio.h>
+
+1551199396 source:c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\managers.cpp
+	"utilitati.cpp"
+	"relatii.cpp"
+	<algorithm>
+	<utility>
+	<map>
+
+1551276184 source:c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\serviciu.cpp
+	<string>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<set>
+
+1551259486 source:c:\_d\facultate\dizertatie\generator teste\generator teste cpp\generator\utilitati.cpp
+	<string>
+	<vector>
+	<algorithm>
+	"constante.cpp"
+

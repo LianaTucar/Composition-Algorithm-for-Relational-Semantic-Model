@@ -1,0 +1,52 @@
+#concepts 5, #relations 14, #rules 1.
+
+Concept_79 -> Concept_33
+Concept_59 -> Concept_33
+Concept_70 -> Concept_33
+Concept_33 (root)
+Concept_88 -> Concept_59
+
+Rel_19: 
+Rel_07: 
+Rel_29: 
+Rel_27: 
+Rel_25: 
+Rel_47: 
+Rel_89: 
+Rel_33: 
+Rel_10: 
+Rel_97: 
+Rel_40: 
+Rel_83: 
+Rel_50: 
+Rel_91: 
+
+Reg_77 X  premises: ( Rel_50(X, Y)  )  conclusions: ( Rel_50(X, Z)  ) Y  premises: ( Rel_33(Y, Z)  ) Z 
+Rel_33(Y, Z) Rel_50(X, Y) 
+Rel_50(X, Z) 
+
+#services (2) are :
+
+Serv_69
+input = Nume_95 : Concept_59 ( Rel_07(Nume_95, Nume_59)  ) , Nume_59 : Concept_88 ( Rel_10(Nume_59, Nume_86)  ) , Nume_65 : Concept_88 , 
+output = Nume_36 : Concept_88, Nume_46 : Concept_79, Nume_86 : Concept_70, Nume_98 : Concept_79, Nume_44 : Concept_59, Nume_73 : Concept_59, Nume_43 : Concept_59, Nume_77 : Concept_59, Nume_42 : Concept_33, Nume_81 : Concept_79, 
+relations = Rel_07(Nume_95, Nume_59), Rel_10(Nume_59, Nume_86), 
+
+Serv_32
+input = Nume_67 : Concept_59 ( Rel_07(Nume_67, Nume_75)  ) , Nume_75 : Concept_88 , Nume_48 : Concept_59 , 
+output = Nume_38 : Concept_59, Nume_21 : Concept_33, Nume_54 : Concept_88, Nume_49 : Concept_79, Nume_78 : Concept_33, Nume_24 : Concept_70, Nume_01 : Concept_88, Nume_34 : Concept_33, Nume_63 : Concept_79, Nume_32 : Concept_59, 
+relations = Rel_07(Nume_67, Nume_75), 
+
+nume_rand
+input = Param_16 : Concept_70 , 
+output = Param_09 : Concept_05, Param_67 : Concept_59, Param_11 : Concept_88, 
+relations = Rel_40(Param_67, Param_67), Rel_27(Param_11, Param_11), 
+
+-------------------------------------------------------------- Input parsing done.
+Knowledge after learning user input and running rules:
+Object by name:
+   nume_rand_0_Param_09 : Concept_05 with no relations.
+   nume_rand_0_Param_11 : Concept_88 with relations: Rel_27(nume_rand_0_Param_11, nume_rand_0_Param_11) 
+   nume_rand_0_Param_67 : Concept_59 with relations: Rel_40(nume_rand_0_Param_67, nume_rand_0_Param_67) 
+-------------------------------------------------------------- Start building composition.
+Could not solve user query.

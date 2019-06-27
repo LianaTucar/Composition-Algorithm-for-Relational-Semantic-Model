@@ -1,0 +1,23 @@
+11 7 0
+
+Concept_0503944 Concept_0503944
+Concept_1282104 Concept_0503944
+Concept_2836967 Concept_1282104
+Concept_3494649 Concept_1282104
+Concept_3570672 Concept_2836967
+Concept_5602837 Concept_3494649
+Concept_7197053 Concept_3494649
+Concept_8003218 Concept_0503944
+Concept_8622752 Concept_0503944
+Concept_9223824 Concept_8003218
+Concept_6691892 Concept_5602837
+
+Rel_3176756
+Rel_5593530
+Rel_speciala
+Rel_1539039
+Rel_1817793
+Rel_6924105
+Rel_9582426
+
+

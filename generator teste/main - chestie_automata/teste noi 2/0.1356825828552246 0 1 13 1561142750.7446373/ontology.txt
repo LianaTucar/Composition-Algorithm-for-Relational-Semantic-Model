@@ -1,0 +1,36 @@
+11 8 3
+
+Concept_0610201 Concept_0610201
+Concept_1956279 Concept_0610201
+Concept_3457965 Concept_0610201
+Concept_3856023 Concept_0610201
+Concept_4157893 Concept_0610201
+Concept_5105823 Concept_3457965
+Concept_6602906 Concept_1956279
+Concept_6775745 Concept_3457965
+Concept_7980736 Concept_6775745
+Concept_9404936 Concept_5105823
+Concept_0913837 Concept_6775745
+
+Rel_0352687
+Rel_9628938
+Rel_7664192
+Rel_9140044
+Rel_speciala
+Rel_3578553
+Rel_6950622
+Rel_4945686
+
+Reg1 X Y
+Rel_7664192 X Y
+Rel_speciala X Y
+
+Reg2 X Y
+Rel_0352687 X Y
+Rel_speciala X Y
+
+Reg3 X Y
+Rel_4945686 X Y
+Rel_speciala X Y
+
+

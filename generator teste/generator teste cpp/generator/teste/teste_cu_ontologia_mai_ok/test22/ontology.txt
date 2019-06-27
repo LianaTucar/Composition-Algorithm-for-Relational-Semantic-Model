@@ -1,0 +1,38 @@
+13 21 0
+
+Concept_05 Concept_05
+Concept_21 Concept_05
+Concept_26 Concept_21
+Concept_31 Concept_05
+Concept_36 Concept_21
+Concept_47 Concept_31
+Concept_48 Concept_31
+Concept_49 Concept_47
+Concept_51 Concept_49
+Concept_52 Concept_51
+Concept_59 Concept_47
+Concept_63 Concept_48
+Concept_77 Concept_31
+
+Rel_66
+Rel_64
+Rel_14
+Rel_28
+Rel_87
+Rel_92
+Rel_96
+Rel_83
+Rel_50
+Rel_89
+Rel_62
+Rel_84
+Rel_16
+Rel_37
+Rel_04
+Rel_26
+Rel_36
+Rel_03
+Rel_98
+Rel_49
+Rel_41
+

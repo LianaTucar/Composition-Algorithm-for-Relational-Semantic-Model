@@ -1,0 +1,27 @@
+8 6 2
+
+Concept_2030599 Concept_2030599
+Concept_4501825 Concept_2030599
+Concept_7246422 Concept_2030599
+Concept_7317660 Concept_7246422
+Concept_7419767 Concept_7246422
+Concept_7695840 Concept_7246422
+Concept_8660277 Concept_7246422
+Concept_2815485 Concept_7695840
+
+Rel_3400508
+Rel_9759260
+Rel_speciala
+Rel_2392506
+Rel_7848921
+Rel_2369884
+
+Reg1 X Y
+Rel_2392506 X Y
+Rel_speciala X Y
+
+Reg2 X Y
+Rel_2392506 X Y
+Rel_speciala X Y
+
+

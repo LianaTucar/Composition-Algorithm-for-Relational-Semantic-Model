@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{WSC2008}
+S.~L. G. C.~S. Department, {\em Semantic Web Services Challenge: Proceedings of
+  the 2008 Workshops}.
+\newblock 2009.
+
+\bibitem{paulRelational}
+A.~N. Paul~Diac, Liana~Tucar, {\em Relational Model for Parameter Description
+  in Automatic Semantic Web Service Composition}.
+\newblock following publication in 23rd International Conference on
+  Knowledge-Based and Intelligent Information Engineering Systems, 2019.
+
+\bibitem{NPComplete}
+C.~S. M.~V. L.~P.~Cordella, P.~Foggia, {\em A (sub) graph isomorphism algorithm
+  for matching large graphs}.
+\newblock IEEE transactions on pattern analysis and machine intelligence, vol.
+  26, no. 10, pp. 1367–1372, 2004.
+
+\bibitem{survey}
+K.~G. Steffen~Bleul, Thomas~Weise, {\em Proceedings of the Workshop on
+  Service-Oriented Computing}.
+\newblock KIVS, 2009.
+
+\bibitem{spanioli}
+M.~L. Pablo Rodriguez-Mier, Manuel~Mucientes, {\em Automatic web service
+  composition with heuristic-based search algorithm}.
+\newblock IEEE International Conference on Web Services, 2011.
+
+\bibitem{eu}
+P.~D. Liana~Tucar, {\em Semantic Web Service Composition based on Graph
+  Search}.
+\newblock Knowledge-Based and Intelligent Information and Engineering Systems:
+  Proceedings of the 22nd International Conference, KES-2018, Belgrade,
+  Serbias, 2018.
+
+\bibitem{paul}
+P.~Diac, {\em Engineering Polynomial-Time Solution for Automatic Web Service
+  Composition}.
+
+\bibitem{2009}
+M.~B.~B. Srividya~Kona, Ajay~Bansal, {\em WSC-2009: A Quality of
+  Service-Oriented Web Services Challenge}.
+\newblock IEEE, 2009.
+
+\end{thebibliography}

@@ -1,0 +1,11 @@
+2
+Serv_ODE36
+Concept_VD1R1 Nume_QEK99 Concept_VD1R1 Nume_LBYMT 
+Concept_X30ND Nume_5XNKV Concept_LC6OU Nume_LLGUW Concept_VD1R1 Nume_WHNQC Concept_LC6OU Nume_GRC11 Concept_VD1R1 Nume_3JGWI Concept_VD1R1 Nume_5JCDR Concept_X30ND Nume_T2PPA Concept_VD1R1 Nume_I00GC Concept_VD1R1 Nume_HBLTR Concept_VD1R1 Nume_Y4QC3 Concept_X30ND Nume_P2KWC Concept_VD1R1 Nume_ZEO99 Concept_LC6OU Nume_EPTQ1 Concept_VD1R1 Nume_2UQJH 
+Rel_2T40Y Nume_QEK99 Nume_P2KWC 
+
+Serv_OCILK
+Concept_VD1R1 Nume_8APVB Concept_VD1R1 Nume_BOB1K 
+Concept_X30ND Nume_I9GX5 Concept_VD1R1 Nume_31NSS Concept_X30ND Nume_SI7U7 Concept_VD1R1 Nume_RWLKN Concept_LC6OU Nume_74FPQ Concept_VD1R1 Nume_9582P Concept_LC6OU Nume_2UO9O Concept_LC6OU Nume_OGK30 Concept_X30ND Nume_VNTN8 Concept_VD1R1 Nume_EI2RS Concept_LC6OU Nume_KVLAB Concept_X30ND Nume_HWSEY Concept_X30ND Nume_JK8J7 Concept_VD1R1 Nume_0N3YF 
+Rel_0TFWR Nume_8APVB Nume_I9GX5 
+

@@ -1,0 +1,81 @@
+16
+Serv_724
+Concept_254 Nume_001 Concept_116 Nume_281 Concept_116 Nume_683 Concept_207 Nume_401 
+Concept_116 Nume_655 Concept_207 Nume_340 Concept_207 Nume_936 
+Rel_211 Nume_281 Nume_001 
+
+Serv_351
+Concept_116 Nume_629 Concept_116 Nume_099 Concept_116 Nume_428 Concept_116 Nume_453 
+Concept_610 Nume_984 Concept_207 Nume_772 Concept_116 Nume_763 
+
+
+Serv_424
+Concept_116 Nume_954 Concept_116 Nume_792 Concept_207 Nume_260 Concept_254 Nume_534 
+Concept_610 Nume_492 Concept_116 Nume_390 Concept_116 Nume_088 
+Rel_653 Nume_954 Nume_260 Rel_238 Nume_260 Nume_792 
+
+Serv_405
+Concept_254 Nume_413 Concept_207 Nume_584 Concept_207 Nume_766 Concept_207 Nume_851 
+Concept_282 Nume_419 Concept_116 Nume_165 Concept_784 Nume_987 
+Rel_281 Nume_766 Nume_413 Rel_291 Nume_413 Nume_584 
+
+Serv_744
+Concept_282 Nume_216 Concept_116 Nume_161 Concept_254 Nume_297 Concept_610 Nume_179 
+Concept_317 Nume_871 Concept_784 Nume_210 Concept_769 Nume_895 
+Rel_486 Nume_216 Nume_210 Rel_239 Nume_161 Nume_297 
+
+Serv_781
+Concept_254 Nume_147 Concept_784 Nume_394 Concept_282 Nume_128 Concept_254 Nume_925 
+Concept_254 Nume_989 Concept_610 Nume_770 Concept_116 Nume_446 
+Rel_114 Nume_394 Nume_128 
+
+Serv_264
+Concept_254 Nume_274 Concept_784 Nume_460 Concept_207 Nume_538 Concept_116 Nume_574 
+Concept_317 Nume_164 Concept_254 Nume_626 Concept_207 Nume_918 
+Rel_291 Nume_274 Nume_538 
+
+Serv_184
+Concept_784 Nume_568 Concept_784 Nume_894 Concept_116 Nume_479 Concept_207 Nume_818 
+Concept_116 Nume_245 Concept_282 Nume_938 Concept_282 Nume_388 
+
+
+Serv_835
+Concept_317 Nume_724 Concept_769 Nume_763 Concept_530 Nume_989 Concept_610 Nume_844 
+Concept_427 Nume_403 Concept_810 Nume_131 Concept_317 Nume_766 
+Rel_833 Nume_763 Nume_403 Rel_432 Nume_724 Nume_989 
+
+Serv_268
+Concept_784 Nume_703 Concept_207 Nume_467 Concept_530 Nume_030 Concept_317 Nume_398 
+Concept_530 Nume_176 Concept_427 Nume_963 Concept_769 Nume_767 
+
+
+Serv_625
+Concept_317 Nume_013 Concept_254 Nume_646 Concept_784 Nume_074 Concept_317 Nume_605 
+Concept_530 Nume_220 Concept_610 Nume_543 Concept_040 Nume_673 
+Rel_314 Nume_646 Nume_074 
+
+Serv_024
+Concept_254 Nume_646 Concept_769 Nume_022 Concept_207 Nume_758 Concept_254 Nume_699 
+Concept_372 Nume_590 Concept_282 Nume_918 Concept_784 Nume_570 
+Rel_281 Nume_758 Nume_646 Rel_291 Nume_646 Nume_758 
+
+Serv_009
+Concept_530 Nume_559 Concept_207 Nume_546 Concept_810 Nume_567 Concept_116 Nume_768 
+Concept_830 Nume_443 Concept_769 Nume_815 Concept_282 Nume_083 
+
+
+Serv_847
+Concept_610 Nume_251 Concept_810 Nume_363 Concept_810 Nume_960 Concept_610 Nume_839 
+Concept_530 Nume_438 Concept_107 Nume_981 Concept_254 Nume_978 
+
+
+Serv_126
+Concept_810 Nume_976 Concept_667 Nume_799 Concept_530 Nume_398 Concept_267 Nume_619 
+Concept_282 Nume_242 Concept_427 Nume_197 Concept_040 Nume_428 
+Rel_272 Nume_799 Nume_197 
+
+Serv_455
+Concept_667 Nume_515 Concept_040 Nume_098 Concept_040 Nume_973 Concept_372 Nume_638 
+Concept_810 Nume_055 Concept_267 Nume_260 Concept_209 Nume_900 
+Rel_142 Nume_515 Nume_260 
+

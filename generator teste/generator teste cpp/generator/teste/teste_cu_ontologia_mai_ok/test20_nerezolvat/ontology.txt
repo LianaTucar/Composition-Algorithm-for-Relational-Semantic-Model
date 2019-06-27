@@ -1,0 +1,63 @@
+24 35 0
+
+Concept_03 Concept_03
+Concept_04 Concept_03
+Concept_05 Concept_04
+Concept_13 Concept_03
+Concept_20 Concept_03
+Concept_21 Concept_13
+Concept_33 Concept_05
+Concept_35 Concept_04
+Concept_39 Concept_33
+Concept_45 Concept_13
+Concept_48 Concept_39
+Concept_49 Concept_33
+Concept_56 Concept_21
+Concept_63 Concept_03
+Concept_65 Concept_39
+Concept_66 Concept_45
+Concept_67 Concept_13
+Concept_69 Concept_21
+Concept_76 Concept_35
+Concept_79 Concept_33
+Concept_83 Concept_39
+Concept_92 Concept_03
+Concept_97 Concept_69
+Concept_98 Concept_79
+
+Rel_08
+Rel_17
+Rel_24
+Rel_46
+Rel_90
+Rel_58
+Rel_76
+Rel_00
+Rel_11
+Rel_07
+Rel_97
+Rel_85
+Rel_15
+Rel_95
+Rel_62
+Rel_92
+Rel_23
+Rel_36
+Rel_80
+Rel_77
+Rel_86
+Rel_04
+Rel_13
+Rel_89
+Rel_57
+Rel_71
+Rel_67
+Rel_84
+Rel_20
+Rel_96
+Rel_53
+Rel_74
+Rel_87
+Rel_40
+Rel_18
+

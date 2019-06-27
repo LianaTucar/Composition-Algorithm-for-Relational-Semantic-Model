@@ -1,0 +1,5 @@
+nume_rand
+Concept_005 Param_910 Concept_454 Param_124 Concept_649 Param_617 Concept_682 Param_436 
+Concept_638 Param_115 
+Rel_478 Param_124 Param_910 Rel_950 Param_617 Param_617 Rel_265 Param_124 Param_124 Rel_556 Param_617 Param_124 Rel_049 Param_124 Param_124 Rel_708 Param_910 Param_617 Rel_458 Param_910 Param_617 
+

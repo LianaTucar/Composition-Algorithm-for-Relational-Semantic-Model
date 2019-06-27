@@ -1,0 +1,11 @@
+3 4 0
+
+Concept_0188536 Concept_0188536
+Concept_1643600 Concept_0188536
+Concept_8450674 Concept_1643600
+
+Rel_1804579
+Rel_6674955
+Rel_8616537
+Rel_5295930
+

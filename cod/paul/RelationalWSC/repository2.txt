@@ -1,0 +1,11 @@
+2
+getUniversityLocation
+University univ
+City city
+isLocatedIn univ city
+
+getAirplaneTicket
+Person pers City source City dest
+Ticket airplaneTicket
+isLocatedIn pers source hasDestination pers dest
+
